@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 
+#Not using this file anymore split up the files to make more sense
+
 class StarWarsCharacterScraper:
     def __init__(self, base_url):
         self.base_url = base_url
