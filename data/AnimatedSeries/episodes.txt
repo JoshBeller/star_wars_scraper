@@ -1,4 +1,3 @@
-Feature film, URL: https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)
 1, URL: https://starwars.fandom.com/wiki/Ambush
 2, URL: https://starwars.fandom.com/wiki/Rising_Malevolence
 3, URL: https://starwars.fandom.com/wiki/Shadow_of_Malevolence
@@ -21,7 +20,6 @@ Feature film, URL: https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(f
 20, URL: https://starwars.fandom.com/wiki/Innocents_of_Ryloth
 21, URL: https://starwars.fandom.com/wiki/Liberty_on_Ryloth
 22, URL: https://starwars.fandom.com/wiki/Hostage_Crisis
-Season Two, URL: https://starwars.fandom.com/wiki/The_Clone_Wars:_Season_Two
 1, URL: https://starwars.fandom.com/wiki/Holocron_Heist
 2, URL: https://starwars.fandom.com/wiki/Cargo_of_Doom
 3, URL: https://starwars.fandom.com/wiki/Children_of_the_Force
@@ -44,7 +42,6 @@ Season Two, URL: https://starwars.fandom.com/wiki/The_Clone_Wars:_Season_Two
 20, URL: https://starwars.fandom.com/wiki/Death_Trap
 21, URL: https://starwars.fandom.com/wiki/R2_Come_Home
 22, URL: https://starwars.fandom.com/wiki/Lethal_Trackdown
-Season Three, URL: https://starwars.fandom.com/wiki/The_Clone_Wars:_Season_Three
 1, URL: https://starwars.fandom.com/wiki/Clone_Cadets
 2, URL: https://starwars.fandom.com/wiki/ARC_Troopers
 3, URL: https://starwars.fandom.com/wiki/Supply_Lines
@@ -67,7 +64,6 @@ Season Three, URL: https://starwars.fandom.com/wiki/The_Clone_Wars:_Season_Three
 20, URL: https://starwars.fandom.com/wiki/Citadel_Rescue
 21, URL: https://starwars.fandom.com/wiki/Padawan_Lost
 22, URL: https://starwars.fandom.com/wiki/Wookiee_Hunt
-Season Four, URL: https://starwars.fandom.com/wiki/The_Clone_Wars:_Season_Four
 1, URL: https://starwars.fandom.com/wiki/Water_War
 2, URL: https://starwars.fandom.com/wiki/Gungan_Attack
 3, URL: https://starwars.fandom.com/wiki/Prisoners
@@ -90,7 +86,6 @@ Season Four, URL: https://starwars.fandom.com/wiki/The_Clone_Wars:_Season_Four
 20, URL: https://starwars.fandom.com/wiki/Bounty_(episode)
 21, URL: https://starwars.fandom.com/wiki/Brothers
 22, URL: https://starwars.fandom.com/wiki/Revenge_(episode)
-Season Five, URL: https://starwars.fandom.com/wiki/The_Clone_Wars:_Season_Five
 1, URL: https://starwars.fandom.com/wiki/Revival_(episode)
 2, URL: https://starwars.fandom.com/wiki/A_War_on_Two_Fronts
 3, URL: https://starwars.fandom.com/wiki/Front_Runners
@@ -111,7 +106,6 @@ Season Five, URL: https://starwars.fandom.com/wiki/The_Clone_Wars:_Season_Five
 18, URL: https://starwars.fandom.com/wiki/The_Jedi_Who_Knew_Too_Much
 19, URL: https://starwars.fandom.com/wiki/To_Catch_a_Jedi
 20, URL: https://starwars.fandom.com/wiki/The_Wrong_Jedi
-Season Six, URL: https://starwars.fandom.com/wiki/The_Clone_Wars:_The_Lost_Missions
 1, URL: https://starwars.fandom.com/wiki/The_Unknown
 2, URL: https://starwars.fandom.com/wiki/Conspiracy
 3, URL: https://starwars.fandom.com/wiki/Fugitive
@@ -125,7 +119,6 @@ Season Six, URL: https://starwars.fandom.com/wiki/The_Clone_Wars:_The_Lost_Missi
 11, URL: https://starwars.fandom.com/wiki/Voices
 12, URL: https://starwars.fandom.com/wiki/Destiny_(The_Clone_Wars)
 13, URL: https://starwars.fandom.com/wiki/Sacrifice
-Season Seven, URL: https://starwars.fandom.com/wiki/The_Clone_Wars:_Season_Seven
 1, URL: https://starwars.fandom.com/wiki/The_Bad_Batch_(episode)
 2, URL: https://starwars.fandom.com/wiki/A_Distant_Echo
 3, URL: https://starwars.fandom.com/wiki/On_the_Wings_of_Keeradaks
@@ -138,59 +131,3 @@ Season Seven, URL: https://starwars.fandom.com/wiki/The_Clone_Wars:_Season_Seven
 10, URL: https://starwars.fandom.com/wiki/The_Phantom_Apprentice
 11, URL: https://starwars.fandom.com/wiki/Shattered
 12, URL: https://starwars.fandom.com/wiki/Victory_and_Death
-Legacy, URL: https://starwars.fandom.com/wiki/The_Clone_Wars_Legacy
-Darth Maul—Son of Dathomir, URL: https://starwars.fandom.com/wiki/Star_Wars:_Darth_Maul%E2%80%94Son_of_Dathomir
-1, URL: https://starwars.fandom.com/wiki/Darth_Maul%E2%80%94Son_of_Dathomir_1
-2, URL: https://starwars.fandom.com/wiki/Darth_Maul%E2%80%94Son_of_Dathomir_2
-3, URL: https://starwars.fandom.com/wiki/Darth_Maul%E2%80%94Son_of_Dathomir_3
-4, URL: https://starwars.fandom.com/wiki/Darth_Maul%E2%80%94Son_of_Dathomir_4
-TPB, URL: https://starwars.fandom.com/wiki/Star_Wars:_Darth_Maul_%E2%80%94_Son_of_Dathomir_(TPB)
-Crystal Crisis on Utapau, URL: https://starwars.fandom.com/wiki/The_Clone_Wars_Legacy#"Crystal_Crisis_on_Utapau"
-1, URL: https://starwars.fandom.com/wiki/A_Death_on_Utapau
-2, URL: https://starwars.fandom.com/wiki/In_Search_of_the_Crystal
-3, URL: https://starwars.fandom.com/wiki/Crystal_Crisis
-4, URL: https://starwars.fandom.com/wiki/The_Big_Bang
-Dark Disciple, URL: https://starwars.fandom.com/wiki/Dark_Disciple
-audiobook, URL: https://starwars.fandom.com/wiki/Dark_Disciple_(audiobook)
-Stories of Light and Dark, URL: https://starwars.fandom.com/wiki/The_Clone_Wars:_Stories_of_Light_and_Dark
-audiobook, URL: https://starwars.fandom.com/wiki/The_Clone_Wars:_Stories_of_Light_and_Dark_(audiobook)
-Battle Tales, URL: https://starwars.fandom.com/wiki/Star_Wars_Adventures:_The_Clone_Wars_%E2%80%93_Battle_Tales
-1, URL: https://starwars.fandom.com/wiki/Star_Wars_Adventures:_The_Clone_Wars_%E2%80%93_Battle_Tales_1
-2, URL: https://starwars.fandom.com/wiki/Star_Wars_Adventures:_The_Clone_Wars_%E2%80%93_Battle_Tales_2
-3, URL: https://starwars.fandom.com/wiki/Star_Wars_Adventures:_The_Clone_Wars_%E2%80%93_Battle_Tales_3
-4, URL: https://starwars.fandom.com/wiki/Star_Wars_Adventures:_The_Clone_Wars_%E2%80%93_Battle_Tales_4
-5, URL: https://starwars.fandom.com/wiki/Star_Wars_Adventures:_The_Clone_Wars_%E2%80%93_Battle_Tales_5
-TPB, URL: https://starwars.fandom.com/wiki/Star_Wars_Adventures:_The_Clone_Wars_%E2%80%93_Battle_Tales_(TPB)
-I Am a Padawan, URL: https://starwars.fandom.com/wiki/Star_Wars:_I_Am_a_Padawan
-I Am a Clone Trooper, URL: https://starwars.fandom.com/wiki/Star_Wars:_I_Am_a_Clone_Trooper
-Screen Comix, URL: https://starwars.fandom.com/wiki/Screen_Comix
-Season 7: Volume 1, URL: https://starwars.fandom.com/wiki/The_Clone_Wars:_Season_7:_Volume_1
-Ahsoka vs. Maul, URL: https://starwars.fandom.com/wiki/The_Clone_Wars:_Ahsoka_vs._Maul
-Feature film, URL: https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(soundtrack)
-Seasons One Through Six, URL: https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_%E2%80%93_Original_Soundtrack_Seasons_One_Through_Six
-1-4, URL: https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_-_The_Final_Season_(Episodes_1-4)
-5-8, URL: https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_-_The_Final_Season_(Episodes_5-8)
-9-12, URL: https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_-_The_Final_Season_(Episodes_9-12)
-Home video releases, URL: https://starwars.fandom.com/wiki/Category:Star_Wars:_The_Clone_Wars_home_video_releases
-1, URL: https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_The_Complete_Season_One
-2, URL: https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_The_Complete_Season_Two
-3, URL: https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_The_Complete_Season_Three
-4, URL: https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_The_Complete_Season_Four
-5, URL: https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_The_Complete_Season_Five
-6, URL: https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_%E2%80%93_The_Lost_Missions
-"A Galaxy Divided", URL: https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars:_A_Galaxy_Divided
-"Clone Commandos", URL: https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars:_Clone_Commandos
-"Bounty Hunters", URL: https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars:_Bounty_Hunters
-Nightsisters Trilogy, URL: https://starwars.fandom.com/wiki/The_Nightsisters_Trilogy:_Feature-Length_Cut
-Darth Maul Returns, URL: https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars:_Darth_Maul_Returns
-3-Pack, URL: https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_3-Pack
-Seasons 1-5 Collector's Edition, URL: https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_Seasons_1-5_Collector%27s_Edition
-StarWars.com Episode Guides, URL: https://starwars.fandom.com/wiki/The_Clone_Wars_Episode_Guides
-Clone Wars Download, URL: https://starwars.fandom.com/wiki/Clone_Wars_Download
-Character Encyclopedia, URL: https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars:_Character_Encyclopedia_-_Join_the_Battle!
-The Official Collectors Edition, URL: https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_%E2%80%93_The_Official_Collector%27s_Edition
-The Art of, URL: https://starwars.fandom.com/wiki/The_Art_of_Star_Wars:_The_Clone_Wars
-booklet, URL: https://starwars.fandom.com/wiki/The_Art_of_Star_Wars:_The_Clone_Wars_(booklet)
-LEGO, URL: https://starwars.fandom.com/wiki/LEGO_Star_Wars:_The_Clone_Wars
-Board game, URL: https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(board_game)
-Legends media, URL: https://starwars.fandom.com/wiki/Template:The_Clone_Wars_Legends
