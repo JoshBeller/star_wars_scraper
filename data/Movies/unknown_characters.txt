@@ -1,0 +1,395 @@
+1138, Classification: Unknown
+1234, Classification: Unknown
+1373, Classification: Unknown
+1472, Classification: Unknown
+1933, Classification: Unknown
+2163, Classification: Unknown
+2296, Classification: Unknown
+2391, Classification: Unknown
+2714, Classification: Unknown
+2767, Classification: Unknown
+2943, Classification: Unknown
+3271, Classification: Unknown
+3B3-21, Classification: Unknown
+6369, Classification: Unknown
+7169, Classification: Unknown
+7276, Classification: Unknown
+7824, Classification: Unknown
+deleted scene(s), Classification: Unknown
+C-3PO, Classification: Unknown
+DUM-4, Classification: Unknown
+G8-R3, Classification: Unknown
+deleted scene(s), Classification: Unknown
+Retcon, Classification: Unknown
+deleted scene(s), Classification: Unknown
+Nobot, Classification: Unknown
+OOM-9, Classification: Unknown
+OWO-1, Classification: Unknown
+PK-4, Classification: Unknown
+deleted scene(s), Classification: Unknown
+R2-A6, Classification: Unknown
+R2-B1, Classification: Unknown
+R2-C4, Classification: Unknown
+R2-D2, Classification: Unknown
+R2-M5, Classification: Unknown
+R2-N3, Classification: Unknown
+R2-R9, Classification: Unknown
+TC-4, Classification: Unknown
+TC-14, Classification: Unknown
+Deland Tyerell, Classification: Unknown
+deleted scene(s), Classification: Unknown
+1138, Classification: Unknown
+2638, Classification: Unknown
+2684, Classification: Unknown
+2934, Classification: Unknown
+3464, Classification: Unknown
+Chon Actrion, Classification: Unknown
+ASN-121, Classification: Unknown
+Buffy, Classification: Unknown
+C-3PO, Classification: Unknown
+COO-2180, Classification: Unknown
+Braata Danlos, Classification: Unknown
+FLO, Classification: Unknown
+Palo Jemabie, Classification: Unknown
+Mick, Classification: Unknown
+deleted scene(s), Classification: Unknown
+deleted scene(s), Classification: Unknown
+deleted scene(s), Classification: Unknown
+deleted scene(s), Classification: Unknown
+deleted scene(s), Classification: Unknown
+Retcon, Classification: Unknown
+R2-D2, Classification: Unknown
+R2-H7, Classification: Unknown
+R2-L3, Classification: Unknown
+R3-T7, Classification: Unknown
+R4-P17, Classification: Unknown
+R5-D4, Classification: Unknown
+RIC-920, Classification: Unknown
+Sistros Nevet, Classification: Unknown
+Ela Tips, Classification: Unknown
+2638, Classification: Unknown
+Cellheim Anujo, Classification: Unknown
+deleted scene(s), Classification: Unknown
+deleted scene(s), Classification: Unknown
+C-3PO, Classification: Unknown
+Braata Danlos, Classification: Unknown
+Eeusu Estornii, Classification: Unknown
+Faya Rodemos, Classification: Unknown
+FX-6, Classification: Unknown
+IG-101, Classification: Unknown
+IG-102, Classification: Unknown
+Retcon, Classification: Unknown
+Kagi, Classification: Unknown
+Corla Metonae, Classification: Unknown
+deleted scene(s), Classification: Unknown
+deleted scene(s), Classification: Unknown
+R2-D2, Classification: Unknown
+R4-F5, Classification: Unknown
+R4-G9, Classification: Unknown
+R4-P17, Classification: Unknown
+R4-P44, Classification: Unknown
+deleted scene(s), Classification: Unknown
+Sistros Nevet, Classification: Unknown
+Yanjon Zelmar, Classification: Unknown
+53, Classification: Unknown
+316, Classification: Unknown
+517, Classification: Unknown
+2X-3KPR, Classification: Unknown
+C-3PO, Classification: Unknown
+CZ-1, Classification: Unknown
+CZ-3, Classification: Unknown
+Deak, Classification: Unknown
+deleted scene(s), Classification: Unknown
+Special Edition, Classification: Unknown
+Retcon, Classification: Unknown
+Special Edition, Classification: Unknown
+Special Edition, Classification: Unknown
+LIN-V8K, Classification: Unknown
+deleted scene(s), Classification: Unknown
+deleted scene(s), Classification: Unknown
+Special Edition, Classification: Unknown
+MSE-6-G735Y, Classification: Unknown
+P2 (prototype astromech droid), Classification: Unknown
+deleted scene(s), Classification: Unknown
+R1-G4, Classification: Unknown
+R2-A3, Classification: Unknown
+R2-A5, Classification: Unknown
+R2-BHD, Classification: Unknown
+Retcon, Classification: Unknown
+R2-D2, Classification: Unknown
+R2-F2, Classification: Unknown
+R2-Q2, Classification: Unknown
+R2-X2, Classification: Unknown
+R3-M3, Classification: Unknown
+R3-T2, Classification: Unknown
+R3-T6, Classification: Unknown
+R4-D6, Classification: Unknown
+R4-E1, Classification: Unknown
+R4-I9, Classification: Unknown
+R4-M9, Classification: Unknown
+R5-A2, Classification: Unknown
+R5-D4, Classification: Unknown
+R5-D8, Classification: Unknown
+R5-K6, Classification: Unknown
+1997, Classification: Unknown
+Retcon, Classification: Unknown
+Tank, Classification: Unknown
+Toos, Classification: Unknown
+U-3PO, Classification: Unknown
+Retcon, Classification: Unknown
+WED-15-ST68, Classification: Unknown
+deleted scene(s), Classification: Unknown
+2-1B, Classification: Unknown
+4-LOM, Classification: Unknown
+C-3PO, Classification: Unknown
+E-3PO, Classification: Unknown
+FX-7, Classification: Unknown
+IG-88B, Classification: Unknown
+Special Edition, Classification: Unknown
+K-3PO, Classification: Unknown
+L3-37, Classification: Unknown
+Retcon, Classification: Unknown
+Nevar, Classification: Unknown
+Kesin Ommis, Classification: Unknown
+R-3PO, Classification: Unknown
+R2-D2, Classification: Unknown
+R3-A2, Classification: Unknown
+R3-Y2, Classification: Unknown
+R5-M2, Classification: Unknown
+Skorr, Classification: Unknown
+Treadwell, Classification: Unknown
+XJ9-CS14, Classification: Unknown
+2-1B, Classification: Unknown
+8D8, Classification: Unknown
+Special Edition, Classification: Unknown
+Arfit, Classification: Unknown
+AV-6R7, Classification: Unknown
+BG-J38, Classification: Unknown
+deleted scene(s), Classification: Unknown
+C-3PO, Classification: Unknown
+Retcon, Classification: Unknown
+Eightyem, Classification: Unknown
+Errin, Classification: Unknown
+EV-9D9, Classification: Unknown
+FX-7, Classification: Unknown
+Bidlo Kwerve, Classification: Unknown
+Bane Malar, Classification: Unknown
+deleted scene(s), Classification: Unknown
+Nackt, Classification: Unknown
+Retcon, Classification: Unknown
+R2-D2, Classification: Unknown
+R2-Q5, Classification: Unknown
+R2-S4M, Classification: Unknown
+R5-G19, Classification: Unknown
+R5-J2, Classification: Unknown
+Brock Starsher, Classification: Unknown
+Retcon, Classification: Unknown
+4B-EG-6, Classification: Unknown
+Allium, Classification: Unknown
+B-U4D, Classification: Unknown
+BB-8, Classification: Unknown
+Sara Bel-Sun, Classification: Unknown
+BR-BA, Classification: Unknown
+C-3PO, Classification: Unknown
+EGL-21, Classification: Unknown
+Furillo, Classification: Unknown
+GA-97, Classification: Unknown
+GTAW-74, Classification: Unknown
+Hal, Classification: Unknown
+HURID-327, Classification: Unknown
+Toursant Irving, Classification: Unknown
+Vanver Irving, Classification: Unknown
+IT-000-XZ 1594, Classification: Unknown
+KT-310, Classification: Unknown
+Cherff Maota, Classification: Unknown
+Davan Marak, Classification: Unknown
+M6-15R, Classification: Unknown
+M9-G8, Classification: Unknown
+ME-8D9, Classification: Unknown
+0-MR1, Classification: Unknown
+P4-99, Classification: Unknown
+Clyss Power, Classification: Unknown
+Grevoth Prana IX, Classification: Unknown
+PZ-4CO, Classification: Unknown
+R-3DO, Classification: Unknown
+R0-4L0, Classification: Unknown
+R0-H2, Classification: Unknown
+R2-D2, Classification: Unknown
+R2-KT, Classification: Unknown
+R2-Q2, Classification: Unknown
+R5-X3, Classification: Unknown
+R6-D8, Classification: Unknown
+Dosmit Ræh, Classification: Unknown
+aurebesh, Classification: Unknown
+RP-G0, Classification: Unknown
+V8-R, Classification: Unknown
+Pallaris Ven, Classification: Unknown
+Venalo Wintz, Classification: Unknown
+XA-LX, Classification: Unknown
+2BB-2, Classification: Unknown
+canonical, Classification: Unknown
+deleted scene(s), Classification: Unknown
+Guswan Askreeth, Classification: Unknown
+deleted scene(s), Classification: Unknown
+B-U4D, Classification: Unknown
+BB-4, Classification: Unknown
+canonical, Classification: Unknown
+BB-8, Classification: Unknown
+BB-9E, Classification: Unknown
+canonical, Classification: Unknown
+Korfé Bennux-Ai, Classification: Unknown
+Trypto Buball, Classification: Unknown
+C-3PO, Classification: Unknown
+deleted scene(s), Classification: Unknown
+Dillon, Classification: Unknown
+deleted scene(s), Classification: Unknown
+Ubialla Gheal, Classification: Unknown
+deleted scene(s), Classification: Unknown
+Hal, Classification: Unknown
+deleted scene(s), Classification: Unknown
+Armitage Hux's mother, Classification: Unknown
+Pinrado Noza, Classification: Unknown
+Brun Obatsun, Classification: Unknown
+Letrun Pay, Classification: Unknown
+Phi, Classification: Unknown
+canonical, Classification: Unknown
+Clyss Power, Classification: Unknown
+PZ-4CO, Classification: Unknown
+R2-D2, Classification: Unknown
+R4-X2, Classification: Unknown
+Centada Ressad, Classification: Unknown
+Ro, Classification: Unknown
+deleted scene(s), Classification: Unknown
+Loatha Sommover, Classification: Unknown
+deleted scene(s), Classification: Unknown
+Spennie, Classification: Unknown
+Stella, Classification: Unknown
+Ted, Classification: Unknown
+Vylla Tendeil, Classification: Unknown
+Y5-X2, Classification: Unknown
+AD-4M, Classification: Unknown
+AL1-L3, Classification: Unknown
+Alpha Three, Classification: Unknown
+BB-8, Classification: Unknown
+BFB-7, Classification: Unknown
+C-3PO, Classification: Unknown
+Kadara Calrissian, Classification: Unknown
+deleted scene(s), Classification: Unknown
+D-O, Classification: Unknown
+Delta Leader, Classification: Unknown
+Efrem LX, Classification: Unknown
+deleted scene(s), Classification: Unknown
+K3-R1, Classification: Unknown
+L4E-R5, Classification: Unknown
+Lazu Lirona, Classification: Unknown
+Domine Lithe, Classification: Unknown
+OC-JK14, Classification: Unknown
+Clyss Power, Classification: Unknown
+R2-D2, Classification: Unknown
+R2-SHP, Classification: Unknown
+R5-2JE, Classification: Unknown
+R6-D8, Classification: Unknown
+R6-LE5, Classification: Unknown
+TQ3-R1, Classification: Unknown
+deleted scene(s), Classification: Unknown
+Vibbo, Classification: Unknown
+Vicii, Classification: Unknown
+4-A7, Classification: Unknown
+BU-11, Classification: Unknown
+C-3PO, Classification: Unknown
+HELIOS-3D, Classification: Unknown
+KRONOS-327, Classification: Unknown
+Whorm Loathsom's LEP servant droid, Classification: Unknown
+R2-C2, Classification: Unknown
+R2-D2, Classification: Unknown
+R2-KT, Classification: Unknown
+R4-P17, Classification: Unknown
+TB-2, Classification: Unknown
+TC-70, Classification: Unknown
+Wurtz, Classification: Unknown
+4D6-J-A7, Classification: Unknown
+9-EZ, Classification: Unknown
+C1-10P, Classification: Unknown
+C2-B5, Classification: Unknown
+C-3PO, Classification: Unknown
+Riss Clyos, Classification: Unknown
+Retcon, Classification: Unknown
+Datchi Creel, Classification: Unknown
+D4-R4B, Classification: Unknown
+Robich Duggsin, Classification: Unknown
+Essie, Classification: Unknown
+G2-1B7, Classification: Unknown
+K-2SO, Classification: Unknown
+KMD-RA-71, Classification: Unknown
+K-OHN, Classification: Unknown
+LU-28, Classification: Unknown
+Brace Marko, Classification: Unknown
+Star Wars: Rogue One: A Junior Novel, Classification: Unknown
+Rogue One: A Star Wars Story novelization, Classification: Unknown
+Lucky Hazz Obloobitt, Classification: Unknown
+R2-BHD, Classification: Unknown
+R2-D2, Classification: Unknown
+R2-SHW, Classification: Unknown
+R3-M2, Classification: Unknown
+R3-S1, Classification: Unknown
+R5-K6, Classification: Unknown
+R5-SK1, Classification: Unknown
+Namen Takamen, Classification: Unknown
+Nesta Term, Classification: Unknown
+Tivik's sister, Classification: Unknown
+Gazdo Woolcob, Classification: Unknown
+XX-25900, Classification: Unknown
+1MSE-KUP24, Classification: Unknown
+deleted scene(s), Classification: Unknown
+DD-BD, Classification: Unknown
+B8G-H0R, Classification: Unknown
+C26-T, Classification: Unknown
+Landonis Balthazar Calrissian's father, Classification: Unknown
+canonically, Classification: Unknown
+Landonis Balthazar Calrissian's mother, Classification: Unknown
+CC-4M, Classification: Unknown
+CM-3XB, Classification: Unknown
+Contispex I, Classification: Unknown
+C00-L05C, Classification: Unknown
+DA1-4XB, Classification: Unknown
+DV-4D4, Classification: Unknown
+FD3-MN, Classification: Unknown
+GB-BD, Classification: Unknown
+GL-0T15, Classification: Unknown
+GM12-L1, Classification: Unknown
+GOUD-4, Classification: Unknown
+deleted scene(s), Classification: Unknown
+HT-IN-4, Classification: Unknown
+Saucer Head, Classification: Unknown
+J3-55, Classification: Unknown
+JBLX-24, Classification: Unknown
+JV-P12, Classification: Unknown
+Kilmo, Classification: Unknown
+KR2-M80, Classification: Unknown
+Exar Kun, Classification: Unknown
+L3-37, Classification: Unknown
+Gafferky Lenzwin, Classification: Unknown
+Yorsh Manted, Classification: Unknown
+MK5-L1, Classification: Unknown
+MPH-11, Classification: Unknown
+Odeffro Msern, Classification: Unknown
+Needles, Classification: Unknown
+Enfys Nest's mother, Classification: Unknown
+NP-G1, Classification: Unknown
+deleted scene(s), Classification: Unknown
+P0-03, Classification: Unknown
+P1-SZE, Classification: Unknown
+P4T-GM, Classification: Unknown
+P6B-LT2, Classification: Unknown
+PA-LT4, Classification: Unknown
+Baroosh Pawk, Classification: Unknown
+Edjian Prince, Classification: Unknown
+R2-F1P, Classification: Unknown
+R2-S8, Classification: Unknown
+R5-232, Classification: Unknown
+R5-PHT, Classification: Unknown
+S1D6-SA-5, Classification: Unknown
+T1M8-LT2, Classification: Unknown
+W1-EG5, Classification: Unknown
+WED-021, Classification: Unknown
+WG-22, Classification: Unknown
