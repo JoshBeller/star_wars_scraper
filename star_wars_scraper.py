@@ -1,7 +1,6 @@
 import json
 from bs4 import BeautifulSoup
 from utils import fetch_page
-from Character import Character
 
 class StarWarsCharacterScraper:
     def __init__(self, base_url):
@@ -9,6 +8,7 @@ class StarWarsCharacterScraper:
         self.known_characters = {}
         self.unknown_characters = {}
         self.unidentified_characters = {}
+        self.character_url_map = {}  # Maps character URLs to their stored names
 
     def parse_characters(self, media_url):
         """Parses character list from an episode/movie page."""
@@ -30,10 +30,9 @@ class StarWarsCharacterScraper:
         character_links = appearances_table.select("ul li a")
         for link in character_links:
             character_name = link.text.strip()
-            character_url = self.base_url + link['href']  # Save character's own page URL
+            character_url = self.base_url + link['href']
             species = self.get_character_species(character_url)
 
-            # Add the character with the episode/movie URL in appearances
             self.add_character(character_name, species, media_url, character_url)
 
     def get_character_species(self, character_url):
@@ -51,37 +50,53 @@ class StarWarsCharacterScraper:
 
         return "Unknown"
 
-
-
-    def __init__(self, base_url):
-            self.base_url = base_url
-            self.known_characters = {}
-            self.unknown_characters = {}
-            self.unidentified_characters = {}
-
     def add_character(self, name, species, media_url, character_url):
-            """Adds character to the appropriate category."""
-            new_character = Character(name, species, character_url)
-            new_character.add_appearance(media_url)
+        """Adds character to the appropriate category using `character_url` for duplicates, but storing by name."""
+        character_data = {
+            "name": name,
+            "character_url": character_url,
+            "species": species,
+            "appearances": [media_url]
+        }
+
+        # If this URL has been seen before, update the existing entry
+        if character_url in self.character_url_map:
+            existing_name = self.character_url_map[character_url]
+
+            # Find the existing entry in the correct category
+            if existing_name in self.known_characters:
+                existing_character = self.known_characters[existing_name]
+            elif existing_name in self.unknown_characters:
+                existing_character = self.unknown_characters[existing_name]
+            else:
+                existing_character = self.unidentified_characters[existing_name]
+
+            # Add the new appearance
+            if media_url not in existing_character["appearances"]:
+                existing_character["appearances"].append(media_url)
+
+            # Update the name if it's different (keep the most recognizable one)
+            if existing_character["name"] != name:
+                print(f"Updating name: {existing_character['name']} → {name}")
+                existing_character["name"] = name
+
+        else:
+            # First time seeing this character, store them under their name
+            self.character_url_map[character_url] = name
 
             if "Unidentified" in name:
-                if name in self.unidentified_characters:
-                    self.unidentified_characters[name]["appearances"].append(media_url)
-                else:
-                    self.unidentified_characters[name] = new_character.to_dict()
+                self.unidentified_characters[name] = character_data
             elif species == "Unknown":
-                if name in self.unknown_characters:
-                    self.unknown_characters[name]["appearances"].append(media_url)
-                else:
-                    self.unknown_characters[name] = new_character.to_dict()
+                self.unknown_characters[name] = character_data
             else:
-                if name in self.known_characters:
-                    self.known_characters[name]["appearances"].append(media_url)
-                else:
-                    self.known_characters[name] = new_character.to_dict()
+                self.known_characters[name] = character_data
 
-    def save_to_files(self, known_file, unknown_file, unidentified_file):
-        """Saves characters to separate JSON files."""
+    def save_to_files(self, base_directory="data/characters/"):
+        """Saves characters to separate JSON files in `data/characters/`."""
+        known_file = f"{base_directory}/known_characters.json"
+        unknown_file = f"{base_directory}/unknown_characters.json"
+        unidentified_file = f"{base_directory}/unidentified_characters.json"
+
         with open(known_file, 'w', encoding='utf-8') as f:
             json.dump(self.known_characters, f, indent=4, ensure_ascii=False)
 

@@ -1,0 +1,454 @@
+{
+    "Padmé Amidala": {
+        "name": "Padmé Amidala",
+        "character_url": "https://starwars.fandom.com/wiki/Padm%C3%A9_Amidala",
+        "species": "Human (Naboo)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Broadside": {
+        "name": "Broadside",
+        "character_url": "https://starwars.fandom.com/wiki/Broadside",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Cody": {
+        "name": "Cody",
+        "character_url": "https://starwars.fandom.com/wiki/Cody",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Davijaan": {
+        "name": "Davijaan",
+        "character_url": "https://starwars.fandom.com/wiki/Davijaan",
+        "species": "Human (clone)[2]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Jabba Desilijic Tiure": {
+        "name": "Jabba Desilijic Tiure",
+        "character_url": "https://starwars.fandom.com/wiki/Jabba_Desilijic_Tiure",
+        "species": "Hutt[4]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)",
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Ziro Desilijic Tiure": {
+        "name": "Ziro Desilijic Tiure",
+        "character_url": "https://starwars.fandom.com/wiki/Ziro_Desilijic_Tiure",
+        "species": "Hutt[5]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Dooku": {
+        "name": "Dooku",
+        "character_url": "https://starwars.fandom.com/wiki/Dooku",
+        "species": "Human (Serennian)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Onaconda Farr": {
+        "name": "Onaconda Farr",
+        "character_url": "https://starwars.fandom.com/wiki/Onaconda_Farr",
+        "species": "Rodian[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Kit Fisto": {
+        "name": "Kit Fisto",
+        "character_url": "https://starwars.fandom.com/wiki/Kit_Fisto",
+        "species": "Nautolan[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Fox": {
+        "name": "Fox",
+        "character_url": "https://starwars.fandom.com/wiki/Fox",
+        "species": "Human (clone)[3]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Gold Six": {
+        "name": "Gold Six",
+        "character_url": "https://starwars.fandom.com/wiki/Gold_Six_(clone_trooper)",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Grievous": {
+        "name": "Grievous",
+        "character_url": "https://starwars.fandom.com/wiki/Grievous",
+        "species": "Kaleesh[3]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Nute Gunray": {
+        "name": "Nute Gunray",
+        "character_url": "https://starwars.fandom.com/wiki/Nute_Gunray",
+        "species": "Neimoidian[3]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Hawk": {
+        "name": "Hawk",
+        "character_url": "https://starwars.fandom.com/wiki/Hawk",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Qui-Gon Jinn": {
+        "name": "Qui-Gon Jinn",
+        "character_url": "https://starwars.fandom.com/wiki/Qui-Gon_Jinn",
+        "species": "Human (Coruscanti)[5]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Obi-Wan Kenobi": {
+        "name": "Obi-Wan Kenobi",
+        "character_url": "https://starwars.fandom.com/wiki/Obi-Wan_Kenobi",
+        "species": "Human[5]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)",
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Kharrus": {
+        "name": "Kharrus",
+        "character_url": "https://starwars.fandom.com/wiki/Kharrus",
+        "species": "Gran[3]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Plo Koon": {
+        "name": "Plo Koon",
+        "character_url": "https://starwars.fandom.com/wiki/Plo_Koon",
+        "species": "Kel Dor[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Whorm Loathsom": {
+        "name": "Whorm Loathsom",
+        "character_url": "https://starwars.fandom.com/wiki/Whorm_Loathsom",
+        "species": "Kerkoiden[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Matchstick": {
+        "name": "Matchstick",
+        "character_url": "https://starwars.fandom.com/wiki/Matchstick",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Rex": {
+        "name": "Rex",
+        "character_url": "https://starwars.fandom.com/wiki/Rex",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Ridge": {
+        "name": "Ridge",
+        "character_url": "https://starwars.fandom.com/wiki/Ridge",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Rotta": {
+        "name": "Rotta",
+        "character_url": "https://starwars.fandom.com/wiki/Rotta",
+        "species": "Hutt[3]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Darth Sidious": {
+        "name": "Sheev Palpatine",
+        "character_url": "https://starwars.fandom.com/wiki/Darth_Sidious",
+        "species": "Human (Naboo)[9]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)",
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Anakin Skywalker": {
+        "name": "Darth Vader",
+        "character_url": "https://starwars.fandom.com/wiki/Anakin_Skywalker",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)",
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Shmi Skywalker Lars": {
+        "name": "Shmi Skywalker Lars",
+        "character_url": "https://starwars.fandom.com/wiki/Shmi_Skywalker_Lars",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Wat Tambor": {
+        "name": "Wat Tambor",
+        "character_url": "https://starwars.fandom.com/wiki/Wat_Tambor",
+        "species": "Skakoan[6]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Ahsoka Tano": {
+        "name": "Ahsoka Tano",
+        "character_url": "https://starwars.fandom.com/wiki/Ahsoka_Tano",
+        "species": "Togruta[6]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Luminara Unduli": {
+        "name": "Luminara Unduli",
+        "character_url": "https://starwars.fandom.com/wiki/Luminara_Unduli",
+        "species": "Mirialan[4]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Asajj Ventress": {
+        "name": "Asajj Ventress",
+        "character_url": "https://starwars.fandom.com/wiki/Asajj_Ventress",
+        "species": "Zabrak (Dathomirian)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Mace Windu": {
+        "name": "Mace Windu",
+        "character_url": "https://starwars.fandom.com/wiki/Mace_Windu",
+        "species": "Human[5]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Yoda": {
+        "name": "Yoda",
+        "character_url": "https://starwars.fandom.com/wiki/Yoda",
+        "species": "Yoda's species[4]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Wullf Yularen": {
+        "name": "Wullf Yularen",
+        "character_url": "https://starwars.fandom.com/wiki/Wullf_Yularen",
+        "species": "Human[4]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ]
+    },
+    "Cumberlayne Aresko": {
+        "name": "Cumberlayne Aresko",
+        "character_url": "https://starwars.fandom.com/wiki/Cumberlayne_Aresko",
+        "species": "Human (Lothalite)[4]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Ephraim Bridger": {
+        "name": "Ephraim Bridger",
+        "character_url": "https://starwars.fandom.com/wiki/Ephraim_Bridger",
+        "species": "Human (Lothalite)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Ezra Bridger": {
+        "name": "Ezra Bridger",
+        "character_url": "https://starwars.fandom.com/wiki/Ezra_Bridger",
+        "species": "Human (Lothalite)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Mira Bridger": {
+        "name": "Mira Bridger",
+        "character_url": "https://starwars.fandom.com/wiki/Mira_Bridger",
+        "species": "Human (Lothalite)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "The Grand Inquisitor": {
+        "name": "The Grand Inquisitor",
+        "character_url": "https://starwars.fandom.com/wiki/The_Grand_Inquisitor",
+        "species": "Pau'an[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Myles Grint": {
+        "name": "Myles Grint",
+        "character_url": "https://starwars.fandom.com/wiki/Myles_Grint",
+        "species": "Human (Lothalite)[4]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Kanan Jarrus": {
+        "name": "Kanan Jarrus",
+        "character_url": "https://starwars.fandom.com/wiki/Kanan_Jarrus",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Alexsandr Kallus": {
+        "name": "Alexsandr Kallus",
+        "character_url": "https://starwars.fandom.com/wiki/Alexsandr_Kallus",
+        "species": "Human (Coruscanti)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Kitwarr": {
+        "name": "Kitwarr",
+        "character_url": "https://starwars.fandom.com/wiki/Kitwarr",
+        "species": "Wookiee (Silverback)[3]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "LS-005": {
+        "name": "LS-005",
+        "character_url": "https://starwars.fandom.com/wiki/LS-005",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Yogar Lyste": {
+        "name": "Yogar Lyste",
+        "character_url": "https://starwars.fandom.com/wiki/Yogar_Lyste",
+        "species": "Human[2]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Garazeb Orrelios": {
+        "name": "Garazeb Orrelios",
+        "character_url": "https://starwars.fandom.com/wiki/Garazeb_Orrelios",
+        "species": "Lasat[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Rangthang": {
+        "name": "Rangthang",
+        "character_url": "https://starwars.fandom.com/wiki/Rangthang",
+        "species": "Rangthang's species[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Max Rebo": {
+        "name": "Max Rebo",
+        "character_url": "https://starwars.fandom.com/wiki/Max_Rebo",
+        "species": "Ortolan[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Luke Skywalker": {
+        "name": "Luke Skywalker",
+        "character_url": "https://starwars.fandom.com/wiki/Luke_Skywalker",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Morad Sumar": {
+        "name": "Morad Sumar",
+        "character_url": "https://starwars.fandom.com/wiki/Morad_Sumar",
+        "species": "Human (Lothalite)[4]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Hera Syndulla": {
+        "name": "Hera Syndulla",
+        "character_url": "https://starwars.fandom.com/wiki/Hera_Syndulla",
+        "species": "Twi'lek[3]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Wilhuff Tarkin": {
+        "name": "Wilhuff Tarkin",
+        "character_url": "https://starwars.fandom.com/wiki/Wilhuff_Tarkin",
+        "species": "Human[4]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Tsoklo": {
+        "name": "Tsoklo",
+        "character_url": "https://starwars.fandom.com/wiki/Tsoklo",
+        "species": "Rodian[2]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Cikatro Vizago": {
+        "name": "Cikatro Vizago",
+        "character_url": "https://starwars.fandom.com/wiki/Cikatro_Vizago",
+        "species": "Devaronian[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Sabine Wren": {
+        "name": "Sabine Wren",
+        "character_url": "https://starwars.fandom.com/wiki/Sabine_Wren",
+        "species": "Human[4]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Wullffwarro": {
+        "name": "Wullffwarro",
+        "character_url": "https://starwars.fandom.com/wiki/Wullffwarro",
+        "species": "Wookiee (Silverback)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    },
+    "Yoffar": {
+        "name": "Yoffar",
+        "character_url": "https://starwars.fandom.com/wiki/Yoffar",
+        "species": "Gotal[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion"
+        ]
+    }
+}

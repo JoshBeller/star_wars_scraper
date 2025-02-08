@@ -1,74 +1,1879 @@
 {
-    "Unidentified Advanced Recon Force Scout Trooper commander": {
-        "name": "Unidentified Advanced Recon Force Scout Trooper commander",
-        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Advanced_Recon_Force_commander",
+    "Unidentified OOM-series security droid corporal": {
+        "name": "Unidentified OOM-series security droid corporal",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_OOM-series_security_droid_corporal",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "Unidentified Security Battle Droid": {
+        "name": "Unidentified Security Battle Droid",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_OOM-series_security_droid_corporal",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "Unidentified acklay": {
+        "name": "Unidentified acklay",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_acklay_(Petranaki_Arena)",
+        "species": "Acklay[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones",
+            "https://starwars.fandom.com/wiki/Landing_at_Point_Rain"
+        ]
+    },
+    "Unidentified B1 battle droid": {
+        "name": "Unidentified B1 battle droid",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_B1_battle_droid_(C-3PO)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones",
+            "https://starwars.fandom.com/wiki/Destroy_Malevolence",
+            "https://starwars.fandom.com/wiki/Downfall_of_a_Droid",
+            "https://starwars.fandom.com/wiki/Innocents_of_Ryloth",
+            "https://starwars.fandom.com/wiki/Missing_in_Action"
+        ]
+    },
+    "Unidentified Clone Captain": {
+        "name": "Unidentified Clone Captain",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Clone_Captain_(Geonosis)",
         "species": "Human (clone)[1]",
         "appearances": [
-            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones",
+            "https://starwars.fandom.com/wiki/Cloak_of_Darkness",
+            "https://starwars.fandom.com/wiki/Fugitive",
+            "https://starwars.fandom.com/wiki/Orders"
         ]
     },
-    "Unidentified Advanced Recon Force Scout Trooper lieutenant": {
-        "name": "Unidentified Advanced Recon Force Scout Trooper lieutenant",
-        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Advanced_Recon_Force_lieutenant",
+    "Unidentified Clone Commander": {
+        "name": "Unidentified Clone Commander",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Clone_Commander_(Geonosis)",
         "species": "Human (clone)[1]",
         "appearances": [
-            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones"
         ]
     },
-    "Unidentified B1 battle droid captain": {
-        "name": "Unidentified B1 battle droid captain",
-        "character_url": "https://starwars.fandom.com/wiki/Unidentified_B1_battle_droid_captain_(Christophsis)",
+    "Unidentified clone trooper 2": {
+        "name": "Unidentified clone trooper 2",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_clone_trooper_2_(Geonosis)",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones"
+        ]
+    },
+    "Unidentified fin headed Jedi": {
+        "name": "Unidentified fin headed Jedi",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_fin_headed_Jedi",
         "species": "Unknown",
         "appearances": [
-            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones"
         ]
     },
-    "Unidentified B1 battle droid sergeant": {
-        "name": "Unidentified B1 battle droid sergeant",
-        "character_url": "https://starwars.fandom.com/wiki/Unidentified_B1_battle_droid_sergeant_(Teth)",
+    "Unidentified nexu": {
+        "name": "Unidentified nexu",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_nexu",
+        "species": "Nexu[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones",
+            "https://starwars.fandom.com/wiki/Landing_at_Point_Rain"
+        ]
+    },
+    "Unidentified one-eyed Jedi": {
+        "name": "Unidentified one-eyed Jedi",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_one-eyed_Jedi",
         "species": "Unknown",
         "appearances": [
-            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones"
         ]
     },
-    "Unidentified clone naval captain": {
-        "name": "Unidentified clone naval captain",
-        "character_url": "https://starwars.fandom.com/wiki/Unidentified_clone_naval_captain_(Teth)",
-        "species": "Human (clone)[2]",
+    "Unidentified reek": {
+        "name": "Unidentified reek",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_reek",
+        "species": "Reek[1]",
         "appearances": [
-            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones",
+            "https://starwars.fandom.com/wiki/Landing_at_Point_Rain"
         ]
     },
-    "Unidentified clone sergeant": {
-        "name": "Unidentified clone sergeant",
-        "character_url": "https://starwars.fandom.com/wiki/Unidentified_clone_sergeant",
-        "species": "Human (clone)[4]",
+    "Unidentified Advanced Recon Force Scout Trooper officer": {
+        "name": "Unidentified Advanced Recon Force Scout Trooper officer",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Advanced_Recon_Force_Scout_Trooper_officer",
+        "species": "Human (clone)[1]",
         "appearances": [
-            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith"
         ]
     },
-    "Unidentified OOM command battle droid (Teth)": {
-        "name": "Unidentified OOM command battle droid (Teth)",
-        "character_url": "https://starwars.fandom.com/wiki/Unidentified_OOM_command_battle_droid_(Teth)",
+    "Unidentified clone lieutenant": {
+        "name": "Unidentified clone lieutenant",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_clone_lieutenant",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith"
+        ]
+    },
+    "Unidentified clone paratrooper": {
+        "name": "Unidentified clone paratrooper",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_clone_paratrooper",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith"
+        ]
+    },
+    "Unidentified Jedi youngling": {
+        "name": "Unidentified Jedi youngling",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Jedi_youngling",
+        "species": "Human[2]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith"
+        ]
+    },
+    "Unidentified Separatist official": {
+        "name": "Unidentified Separatist official",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Separatist_official",
         "species": "Unknown",
         "appearances": [
-            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith"
+        ]
+    },
+    "Unidentified unit commander": {
+        "name": "Unidentified unit commander",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_unit_commander",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith"
+        ]
+    },
+    "Unidentified Death Star gunner": {
+        "name": "Unidentified Death Star gunner",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Death_Star_gunner",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "Unidentified Imperial Navy Trooper": {
+        "name": "Unidentified Imperial Navy Trooper",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Imperial_Navy_Trooper_(Leia_Organa)",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "Unidentified sandtrooper captain": {
+        "name": "Unidentified sandtrooper captain",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_sandtrooper_captain",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "Unidentified stormtrooper": {
+        "name": "Unidentified stormtrooper",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_stormtrooper_(Tractor_Beam_12)",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "Unidentified stormtrooper 2": {
+        "name": "Unidentified stormtrooper 2",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_stormtrooper_(BT-16)",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "Unidentified Echo Base deck officer": {
+        "name": "Unidentified Echo Base deck officer",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Echo_Base_deck_officer",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back"
+        ]
+    },
+    "Unidentified Imperial officer": {
+        "name": "Unidentified Imperial officer",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Imperial_officer_(Avenger)",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back"
+        ]
+    },
+    "Unidentified rebel": {
+        "name": "Unidentified rebel",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_rebel_(Echo_Base)",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back"
+        ]
+    },
+    "Unidentified wampa": {
+        "name": "Unidentified wampa",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_wampa",
+        "species": "Wampa[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back"
+        ]
+    },
+    "Unidentified deck gunner": {
+        "name": "Unidentified deck gunner",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_deck_gunner",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "Unidentified GNK power droid": {
+        "name": "Unidentified GNK power droid",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_power_droid_(Jabba%27s_Palace)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi",
+            "https://starwars.fandom.com/wiki/Point_of_No_Return_(The_Clone_Wars)"
+        ]
+    },
+    "Unidentified Imperial commander": {
+        "name": "Unidentified Imperial commander",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Imperial_commander_(Executor;_Battle_of_Endor)",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "Unidentified Scout trooper (Endor 1)": {
+        "name": "Unidentified Scout trooper (Endor 1)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_scout_trooper_1_(Endor)",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "Unidentified Scout trooper (Endor 2)": {
+        "name": "Unidentified Scout trooper (Endor 2)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_scout_trooper_2_(Endor)",
+        "species": "Human[2]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "Unidentified Scout trooper (Endor 3)": {
+        "name": "Unidentified Scout trooper (Endor 3)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_scout_trooper_3_(Endor)",
+        "species": "Human[2]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "Unidentified Scout trooper (Endor 4)": {
+        "name": "Unidentified Scout trooper (Endor 4)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_scout_trooper_4_(Endor)",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "Unidentified female bar patron": {
+        "name": "Unidentified female bar patron",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_female_bar_patron",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "Unidentified female First Order officer": {
+        "name": "Unidentified female First Order officer",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_female_First_Order_officer",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "Unidentified First Order stormtrooper (Starkiller Base)": {
+        "name": "Unidentified First Order stormtrooper (Starkiller Base)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_First_Order_stormtrooper_(Starkiller_Base)",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "Unidentified female Jakku villager": {
+        "name": "Unidentified female Jakku villager",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_female_Jakku_villager",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "Unidentified First Order officer (Finalizer)": {
+        "name": "Unidentified First Order officer (Finalizer)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_First_Order_officer_(Finalizer)",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "Unidentified First Order officer (Starkiller Base)": {
+        "name": "Unidentified First Order officer (Starkiller Base)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_First_Order_officer_(Starkiller_Base)",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "Unidentified First Order officer (Starkiller Base) 2": {
+        "name": "Unidentified First Order officer (Starkiller Base) 2",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_First_Order_officer_(Starkiller_Base)_2",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "Unidentified First Order officer (Starkiller Base) 3": {
+        "name": "Unidentified First Order officer (Starkiller Base) 3",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_First_Order_officer_(Starkiller_Base)_3",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "Unidentified male bar patron": {
+        "name": "Unidentified male bar patron",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_male_bar_patron",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "Unidentified male bar patron 2": {
+        "name": "Unidentified male bar patron 2",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_male_bar_patron_2",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "Unidentified male First Order officer": {
+        "name": "Unidentified male First Order officer",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_male_First_Order_officer",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "Unidentified male Hosnian": {
+        "name": "Unidentified male Hosnian",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_male_Hosnian",
+        "species": "Human[2]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "Unidentified Resistance technician": {
+        "name": "Unidentified Resistance technician",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Resistance_technician",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "Unidentified Anodyne pilot": {
+        "name": "Unidentified Anodyne pilot",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Anodyne_pilot",
+        "species": "Human[2]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "Unidentified flight engineer": {
+        "name": "Unidentified flight engineer",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_flight_engineer",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "Unidentified Resistance soldier": {
+        "name": "Unidentified Resistance soldier",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Resistance_soldier",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "Unidentified tactical officer": {
+        "name": "Unidentified tactical officer",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_tactical_officer",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "Unidentified transport pilot": {
+        "name": "Unidentified transport pilot",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_transport_pilot",
+        "species": "Human[2]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "Unidentified blind giant": {
+        "name": "Unidentified blind giant",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_blind_giant",
+        "species": "Arobernos[2]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "Unidentified First Order Stormtrooper (Steadfast)": {
+        "name": "Unidentified First Order Stormtrooper (Steadfast)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_First_Order_stormtrooper_(Steadfast)",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "Unidentified Sith Eternal fleet technician": {
+        "name": "Unidentified Sith Eternal fleet technician",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Sith_Eternal_fleet_technician",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "Unidentified Tatooine elder": {
+        "name": "Unidentified Tatooine elder",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Tatooine_elder",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "Unidentified fleet trooper": {
+        "name": "Unidentified fleet trooper",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_fleet_trooper",
+        "species": "Human[2]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "Unidentified Human Rebel": {
+        "name": "Unidentified Human Rebel",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Human_Rebel_(Profundity)",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "Unidentified male rebel technician": {
+        "name": "Unidentified male rebel technician",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_male_rebel_technician",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "Unidentified prisoner": {
+        "name": "Unidentified prisoner",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_prisoner_(Wobani)",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "Unidentified Rebel MP": {
+        "name": "Unidentified Rebel MP",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Rebel_MP",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "Unidentified Shield Gate officer": {
+        "name": "Unidentified Shield Gate officer",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Shield_Gate_officer",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "Unidentified shoretrooper squad leader": {
+        "name": "Unidentified shoretrooper squad leader",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_shoretrooper_squad_leader",
+        "species": "Human[3]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "Unidentified Tantive IV copilot": {
+        "name": "Unidentified Tantive IV copilot",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Tantive_IV_copilot",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "Unidentified patrol trooper": {
+        "name": "Unidentified patrol trooper",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_patrol_trooper_(Corellia)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "Unidentified AAT driver battle droid": {
+        "name": "Unidentified AAT driver battle droid",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_AAT_driver_battle_droid",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Ambush"
+        ]
+    },
+    "Unidentified B1 battle droid 1": {
+        "name": "Unidentified B1 battle droid 1",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_B1_battle_droid_1_(Rugosa)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Ambush"
+        ]
+    },
+    "Unidentified B1 battle droid 2": {
+        "name": "Unidentified B1 battle droid 2",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_B1_battle_droid_2_(Rugosa)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Ambush"
+        ]
+    },
+    "Unidentified B1 battle droid 3": {
+        "name": "Unidentified B1 battle droid 3",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_B1_battle_droid_3_(Rugosa)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Ambush"
+        ]
+    },
+    "Unidentified B1 battle droid 4": {
+        "name": "Unidentified B1 battle droid 4",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_B1_battle_droid_4_(Rugosa)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Ambush",
+            "https://starwars.fandom.com/wiki/Rising_Malevolence"
+        ]
+    },
+    "Unidentified B1 battle droid 5": {
+        "name": "Unidentified B1 battle droid 5",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_B1_battle_droid_5_(Rugosa)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Ambush"
+        ]
+    },
+    "Unidentified B2 super battle droid": {
+        "name": "Unidentified B2 super battle droid",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_B2_super_battle_droid",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Ambush"
+        ]
+    },
+    "Unidentified clone trooper pilot": {
+        "name": "Unidentified clone trooper pilot",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_clone_trooper_pilot_(Twilight)",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Ambush",
+            "https://starwars.fandom.com/wiki/Duel_of_the_Droids",
+            "https://starwars.fandom.com/wiki/Old_Friends_Not_Forgotten"
+        ]
+    },
+    "Unidentified Toydarian royal guard": {
+        "name": "Unidentified Toydarian royal guard",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Toydarian_royal_guard",
+        "species": "Toydarian[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Ambush"
+        ]
+    },
+    "Unidentified clone navigation officer": {
+        "name": "Unidentified clone navigation officer",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_clone_navigation_officer_(Anza)",
+        "species": "Human (clone)[3]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rising_Malevolence",
+            "https://starwars.fandom.com/wiki/R2_Come_Home",
+            "https://starwars.fandom.com/wiki/Lethal_Trackdown",
+            "https://starwars.fandom.com/wiki/Supply_Lines",
+            "https://starwars.fandom.com/wiki/Assassin_(episode)",
+            "https://starwars.fandom.com/wiki/Shattered",
+            "https://starwars.fandom.com/wiki/Victory_and_Death"
+        ]
+    },
+    "Unidentified B1 battle droid 4 (Malevolence)": {
+        "name": "Unidentified B1 battle droid 4 (Malevolence)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_B1_battle_droid_4_(Malevolence)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Shadow_of_Malevolence"
+        ]
+    },
+    "Unidentified clone naval commander": {
+        "name": "Unidentified clone naval commander",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_clone_naval_commander_(Kaliida_Shoals_Medical_Center)",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Shadow_of_Malevolence",
+            "https://starwars.fandom.com/wiki/Destroy_Malevolence",
+            "https://starwars.fandom.com/wiki/Cloak_of_Darkness"
+        ]
+    },
+    "Unidentified medical officer clone": {
+        "name": "Unidentified medical officer clone",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_clone_chief_medic",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Shadow_of_Malevolence",
+            "https://starwars.fandom.com/wiki/Destroy_Malevolence",
+            "https://starwars.fandom.com/wiki/Rookies"
+        ]
+    },
+    "Unidentified OOM command battle droid": {
+        "name": "Unidentified OOM command battle droid",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_OOM_command_battle_droid_(Malevolence)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Destroy_Malevolence",
+            "https://starwars.fandom.com/wiki/Downfall_of_a_Droid",
+            "https://starwars.fandom.com/wiki/Dooku_Captured",
+            "https://starwars.fandom.com/wiki/The_Bad_Batch_(episode)",
+            "https://starwars.fandom.com/wiki/A_Distant_Echo"
         ]
     },
     "Unidentified OOM command battle droid 2": {
         "name": "Unidentified OOM command battle droid 2",
-        "character_url": "https://starwars.fandom.com/wiki/Unidentified_OOM_command_battle_droid_2_(Teth)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_OOM_command_battle_droid_2_(Malevolence)",
         "species": "Unknown",
         "appearances": [
-            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+            "https://starwars.fandom.com/wiki/Destroy_Malevolence",
+            "https://starwars.fandom.com/wiki/Storm_Over_Ryloth"
         ]
     },
-    "Unidentified OOM command battle droid 3": {
-        "name": "Unidentified OOM command battle droid 3",
-        "character_url": "https://starwars.fandom.com/wiki/Unidentified_OOM_command_battle_droid_3_(Teth)",
+    "Unidentified clone tank pilot": {
+        "name": "Unidentified clone tank pilot",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_clone_tank_pilot",
+        "species": "Human (clone)[2]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Downfall_of_a_Droid"
+        ]
+    },
+    "Unidentified clone trooper": {
+        "name": "Unidentified clone trooper",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_clone_trooper_(Resolute)",
+        "species": "Human (clone)[2]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Downfall_of_a_Droid",
+            "https://starwars.fandom.com/wiki/Bombad_Jedi",
+            "https://starwars.fandom.com/wiki/Death_Trap",
+            "https://starwars.fandom.com/wiki/R2_Come_Home",
+            "https://starwars.fandom.com/wiki/Supply_Lines",
+            "https://starwars.fandom.com/wiki/Carnage_of_Krell",
+            "https://starwars.fandom.com/wiki/Shattered"
+        ]
+    },
+    "Unidentified IG-86 sentinel droid 1": {
+        "name": "Unidentified IG-86 sentinel droid 1",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_IG-86_sentinel_droid_1",
         "species": "Unknown",
         "appearances": [
-            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+            "https://starwars.fandom.com/wiki/Downfall_of_a_Droid",
+            "https://starwars.fandom.com/wiki/Duel_of_the_Droids"
+        ]
+    },
+    "Unidentified IG-86 sentinel droid 2": {
+        "name": "Unidentified IG-86 sentinel droid 2",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_IG-86_sentinel_droid_2",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Downfall_of_a_Droid",
+            "https://starwars.fandom.com/wiki/Duel_of_the_Droids"
+        ]
+    },
+    "Unidentified OOM pilot battle droid (Confederate space)": {
+        "name": "Unidentified OOM pilot battle droid (Confederate space)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_OOM_pilot_battle_droid_(Confederate_space)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Downfall_of_a_Droid"
+        ]
+    },
+    "Unidentified OOM pilot battle droid (Bothawui)": {
+        "name": "Unidentified OOM pilot battle droid (Bothawui)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_OOM_pilot_battle_droid_(Bothawui)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Downfall_of_a_Droid"
+        ]
+    },
+    "Unidentified clone naval captain": {
+        "name": "Unidentified clone naval captain",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_clone_naval_captain",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Cloak_of_Darkness"
+        ]
+    },
+    "Unidentified clone pilot captain": {
+        "name": "Unidentified clone pilot captain",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_clone_pilot_captain",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Cloak_of_Darkness"
+        ]
+    },
+    "Unidentified Green Company trooper": {
+        "name": "Unidentified Green Company trooper",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Green_Company_trooper",
+        "species": "Human (clone)[3]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Cloak_of_Darkness"
+        ]
+    },
+    "Unidentified gundark": {
+        "name": "Unidentified gundark",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_gundark",
+        "species": "Gundark[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Dooku_Captured"
+        ]
+    },
+    "Unidentified Weequay pirate with goggles": {
+        "name": "Unidentified Weequay pirate with goggles",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Weequay_pirate_with_goggles",
+        "species": "Weequay[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Dooku_Captured",
+            "https://starwars.fandom.com/wiki/Revival_(episode)",
+            "https://starwars.fandom.com/wiki/A_Test_of_Strength",
+            "https://starwars.fandom.com/wiki/Bound_for_Rescue",
+            "https://starwars.fandom.com/wiki/A_Necessary_Bond"
+        ]
+    },
+    "Unidentified Clone Sergeant": {
+        "name": "Unidentified Clone Sergeant",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Coruscant_Guard_sergeant",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Gungan_General"
+        ]
+    },
+    "Unidentified Coruscant Guard": {
+        "name": "Unidentified Coruscant Guard",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Coruscant_Guard_1_(Florrum)",
+        "species": "Human (Clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Gungan_General"
+        ]
+    },
+    "Unidentified clone trooper pilot (Quell)": {
+        "name": "Unidentified clone trooper pilot (Quell)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_clone_trooper_pilot_(Quell)",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Jedi_Crash"
+        ]
+    },
+    "Unidentified B1-series battle droid": {
+        "name": "Unidentified B1-series battle droid",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_B1-series_battle_droid_(Maridun)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Defenders_of_Peace",
+            "https://starwars.fandom.com/wiki/Storm_Over_Ryloth",
+            "https://starwars.fandom.com/wiki/Plan_of_Dissent"
+        ]
+    },
+    "Unidentified T-series tactical droid": {
+        "name": "Unidentified T-series tactical droid",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_T-series_tactical_droid_(Christophsis)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Hidden_Enemy",
+            "https://starwars.fandom.com/wiki/Kidnapped"
+        ]
+    },
+    "Unidentified 2-1B surgical droid (Naboo)": {
+        "name": "Unidentified 2-1B surgical droid (Naboo)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_2-1B_surgical_droid_(Naboo)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Blue_Shadow_Virus_(episode)"
+        ]
+    },
+    "Unidentified OOM command battle droid 1": {
+        "name": "Unidentified OOM command battle droid 1",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_OOM_command_battle_droid_1_(Ryloth_blockade)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Storm_Over_Ryloth"
+        ]
+    },
+    "Unidentified Resolute navigation officer": {
+        "name": "Unidentified Resolute navigation officer",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Resolute_navigation_officer_(Battle_of_Ryloth)",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Storm_Over_Ryloth"
+        ]
+    },
+    "Unidentified B1 battle droid sergeant": {
+        "name": "Unidentified B1 battle droid sergeant",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_B1_battle_droid_sergeant_(Ryloth)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Innocents_of_Ryloth"
+        ]
+    },
+    "Unidentified OOM command battle droid 1 (Ryloth)": {
+        "name": "Unidentified OOM command battle droid 1 (Ryloth)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_OOM_command_battle_droid_1_(Ryloth)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Liberty_on_Ryloth"
+        ]
+    },
+    "Unidentified OOM command battle droid 2 (Ryloth)": {
+        "name": "Unidentified OOM command battle droid 2 (Ryloth)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_OOM_command_battle_droid_2_(Ryloth)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Liberty_on_Ryloth"
+        ]
+    },
+    "Unidentified BX-series droid commando 1": {
+        "name": "Unidentified BX-series droid commando 1",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_BX-series_droid_commando_1_(Cad_Bane)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Hostage_Crisis",
+            "https://starwars.fandom.com/wiki/Lightsaber_Lost"
+        ]
+    },
+    "Unidentified BX-series droid commando 2": {
+        "name": "Unidentified BX-series droid commando 2",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_BX-series_droid_commando_2_(Cad_Bane)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Hostage_Crisis",
+            "https://starwars.fandom.com/wiki/Lightsaber_Lost"
+        ]
+    },
+    "Unidentified Christophsian senator": {
+        "name": "Unidentified Christophsian senator",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Christophsian_senator",
+        "species": "Christophsian[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Hostage_Crisis",
+            "https://starwars.fandom.com/wiki/Senate_Spy",
+            "https://starwars.fandom.com/wiki/Lightsaber_Lost",
+            "https://starwars.fandom.com/wiki/The_Mandalore_Plot",
+            "https://starwars.fandom.com/wiki/Hunt_for_Ziro",
+            "https://starwars.fandom.com/wiki/Heroes_on_Both_Sides"
+        ]
+    },
+    "Unidentified IG-86 sentinel droid": {
+        "name": "Unidentified IG-86 sentinel droid",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_IG-86_sentinel_droid_(Cad_Bane)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Hostage_Crisis"
+        ]
+    },
+    "Unidentified B1 battle droid (Cad Bane's frigate)": {
+        "name": "Unidentified B1 battle droid (Cad Bane's frigate)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_B1-series_battle_droid_(Cad_Bane%27s_frigate)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Cargo_of_Doom"
+        ]
+    },
+    "Unidentified clone trooper (Devaron)": {
+        "name": "Unidentified clone trooper (Devaron)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_clone_trooper_(Devaron)",
+        "species": "Human (clone)[2]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Cargo_of_Doom"
+        ]
+    },
+    "Unidentified OOM command battle droid (Devaron)": {
+        "name": "Unidentified OOM command battle droid (Devaron)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_OOM_command_battle_droid_(Devaron)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Cargo_of_Doom"
+        ]
+    },
+    "Unidentified Sith nanny droid": {
+        "name": "Unidentified Sith nanny droid",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Sith_nanny_droid",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Children_of_the_Force"
+        ]
+    },
+    "Unidentified Neimoidian (drapery painting)": {
+        "name": "Unidentified Neimoidian (drapery painting)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Neimoidian_(drapery_painting)",
+        "species": "Neimoidian[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Senate_Spy"
+        ]
+    },
+    "Unidentified Neimoidian (golden painting)": {
+        "name": "Unidentified Neimoidian (golden painting)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Neimoidian_(golden_painting)",
+        "species": "Neimoidian[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Senate_Spy"
+        ]
+    },
+    "Unidentified Neimoidian (Kaadu painting)": {
+        "name": "Unidentified Neimoidian (Kaadu painting)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Neimoidian_(Kaadu_painting)",
+        "species": "Neimoidian[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Senate_Spy"
+        ]
+    },
+    "Unidentified clone trooper pilot (Geonosis)": {
+        "name": "Unidentified clone trooper pilot (Geonosis)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_clone_trooper_pilot_(Geonosis)",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Landing_at_Point_Rain"
+        ]
+    },
+    "Unidentified Geonosian spy": {
+        "name": "Unidentified Geonosian spy",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Geonosian_spy",
+        "species": "Geonosian[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Weapons_Factory"
+        ]
+    },
+    "Unidentified B1 battle droid 1 (Geonosis)": {
+        "name": "Unidentified B1 battle droid 1 (Geonosis)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_B1_battle_droid_(O.M.5)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Legacy_of_Terror"
+        ]
+    },
+    "Unidentified Death Watch saboteur": {
+        "name": "Unidentified Death Watch saboteur",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Death_Watch_saboteur",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Mandalore_Plot"
+        ]
+    },
+    "Unidentified assassin probe 1": {
+        "name": "Unidentified assassin probe 1",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_assassin_probe_1",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Voyage_of_Temptation"
+        ]
+    },
+    "Unidentified Death Watch assassin": {
+        "name": "Unidentified Death Watch assassin",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Death_Watch_assassin",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Duchess_of_Mandalore"
+        ]
+    },
+    "Unidentified New Mandalorian scout": {
+        "name": "Unidentified New Mandalorian scout",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_New_Mandalorian_scout",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Duchess_of_Mandalore"
+        ]
+    },
+    "Unidentified stealth clone pilot": {
+        "name": "Unidentified stealth clone pilot",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_stealth_clone_pilot",
+        "species": "Human (clone)[2]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Cat_and_Mouse"
+        ]
+    },
+    "Unidentified pirate scout": {
+        "name": "Unidentified pirate scout",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_pirate_scout",
+        "species": "Weequay[2]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Bounty_Hunters_(episode)"
+        ]
+    },
+    "Unidentified Weequay pirate": {
+        "name": "Unidentified Weequay pirate",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Weequay_pirate_(Felucia)",
+        "species": "Weequay[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Bounty_Hunters_(episode)"
+        ]
+    },
+    "Unidentified clone trooper pilot (Malastare)": {
+        "name": "Unidentified clone trooper pilot (Malastare)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_clone_trooper_pilot_(Malastare)/Legends",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Zillo_Beast"
+        ]
+    },
+    "Unidentified Zillo Beast": {
+        "name": "Unidentified Zillo Beast",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Zillo_Beast",
+        "species": "Zillo Beast[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Zillo_Beast",
+            "https://starwars.fandom.com/wiki/The_Zillo_Beast_Strikes_Back"
+        ]
+    },
+    "Unidentified Senate Commando": {
+        "name": "Unidentified Senate Commando",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Senate_Commando_(Zillo_Beast_incident)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Zillo_Beast_Strikes_Back"
+        ]
+    },
+    "Unidentified Bith musician": {
+        "name": "Unidentified Bith musician",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Bith_musician_(concert_solo)",
+        "species": "Bith[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Lethal_Trackdown",
+            "https://starwars.fandom.com/wiki/Pursuit_of_Peace",
+            "https://starwars.fandom.com/wiki/To_Catch_a_Jedi",
+            "https://starwars.fandom.com/wiki/The_Wrong_Jedi"
+        ]
+    },
+    "Unidentified human singer": {
+        "name": "Unidentified human singer",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_human_singer",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Lethal_Trackdown",
+            "https://starwars.fandom.com/wiki/Pursuit_of_Peace",
+            "https://starwars.fandom.com/wiki/To_Catch_a_Jedi",
+            "https://starwars.fandom.com/wiki/The_Wrong_Jedi",
+            "https://starwars.fandom.com/wiki/Gone_with_a_Trace"
+        ]
+    },
+    "Unidentified Ithorian (Moshi Bar)": {
+        "name": "Unidentified Ithorian (Moshi Bar)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Ithorian_(Moshi_Bar)",
+        "species": "Ithorian[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Lethal_Trackdown"
+        ]
+    },
+    "Unidentified Patrolian (Moshi Bar)": {
+        "name": "Unidentified Patrolian (Moshi Bar)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Patrolian_(Moshi_Bar)",
+        "species": "Patrolian[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Lethal_Trackdown"
+        ]
+    },
+    "Unidentified Quarren (Moshi Bar)": {
+        "name": "Unidentified Quarren (Moshi Bar)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Quarren_(Moshi_Bar)",
+        "species": "Quarren[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Lethal_Trackdown"
+        ]
+    },
+    "Unidentified Rodian (Moshi Bar)": {
+        "name": "Unidentified Rodian (Moshi Bar)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Rodian_(Moshi_Bar)",
+        "species": "Rodian[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Lethal_Trackdown"
+        ]
+    },
+    "Unidentified Twi'lek (Moshi Bar)": {
+        "name": "Unidentified Twi'lek (Moshi Bar)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Twi%27lek_(Moshi_Bar)",
+        "species": "Twi'lek[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Lethal_Trackdown"
+        ]
+    },
+    "Unidentified Weequay pirate (Moshi Bar)": {
+        "name": "Unidentified Weequay pirate (Moshi Bar)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Weequay_pirate_(Moshi_Bar)",
+        "species": "Weequay[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Lethal_Trackdown"
+        ]
+    },
+    "Unidentified clone cadet": {
+        "name": "Unidentified clone cadet",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_clone_cadet",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/ARC_Troopers"
+        ]
+    },
+    "Unidentified clone cadet 2": {
+        "name": "Unidentified clone cadet 2",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_clone_cadet_2",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/ARC_Troopers"
+        ]
+    },
+    "Unidentified clone cadet 3": {
+        "name": "Unidentified clone cadet 3",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_clone_cadet_3",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/ARC_Troopers"
+        ]
+    },
+    "Unidentified Neimoidian aide": {
+        "name": "Unidentified Neimoidian aide",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Neimoidian_aide_(Lott_Dod)",
+        "species": "Neimoidian[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Supply_Lines"
+        ]
+    },
+    "Unidentified OOM command battle droid (Ryloth)": {
+        "name": "Unidentified OOM command battle droid (Ryloth)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_OOM_command_battle_droid_(Ryloth)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Supply_Lines"
+        ]
+    },
+    "Unidentified Toydarian defense minister": {
+        "name": "Unidentified Toydarian defense minister",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Toydarian_defense_minister",
+        "species": "Toydarian[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Supply_Lines"
+        ]
+    },
+    "Unidentified Toydarian minister": {
+        "name": "Unidentified Toydarian minister",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Toydarian_minister",
+        "species": "Toydarian[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Supply_Lines"
+        ]
+    },
+    "Unidentified Toydarian minister 2": {
+        "name": "Unidentified Toydarian minister 2",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Toydarian_minister_2",
+        "species": "Toydarian[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Supply_Lines"
+        ]
+    },
+    "Unidentified Toydarian royal guard (Bail Organa)": {
+        "name": "Unidentified Toydarian royal guard (Bail Organa)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Toydarian_royal_guard_(Bail_Organa)",
+        "species": "Toydarian[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Supply_Lines"
+        ]
+    },
+    "Unidentified Gotal bounty hunter": {
+        "name": "Unidentified Gotal bounty hunter",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Gotal_bounty_hunter",
+        "species": "Gotal[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Sphere_of_Influence"
+        ]
+    },
+    "Unidentified Neimoidian envoy": {
+        "name": "Unidentified Neimoidian envoy",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Neimoidian_envoy",
+        "species": "Neimoidian[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Sphere_of_Influence"
+        ]
+    },
+    "Unidentified Neimoidian guard": {
+        "name": "Unidentified Neimoidian guard",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Neimoidian_guard",
+        "species": "Neimoidian[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Sphere_of_Influence"
+        ]
+    },
+    "Unidentified Nimbanel bartender": {
+        "name": "Unidentified Nimbanel bartender",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Nimbanel_bartender",
+        "species": "Nimbanel[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Sphere_of_Influence",
+            "https://starwars.fandom.com/wiki/Bounty_(episode)"
+        ]
+    },
+    "Unidentified Mandalorian customs official": {
+        "name": "Unidentified Mandalorian customs official",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Mandalorian_customs_official",
+        "species": "Human (Mandalorian)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Corruption_(episode)",
+            "https://starwars.fandom.com/wiki/The_Academy"
+        ]
+    },
+    "Unidentified New Mandalorian Minister of Finance": {
+        "name": "Unidentified New Mandalorian Minister of Finance",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_New_Mandalorian_Minister_of_Finance",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Corruption_(episode)"
+        ]
+    },
+    "Unidentified Sundari school superintendent": {
+        "name": "Unidentified Sundari school superintendent",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Sundari_school_superintendent",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Corruption_(episode)",
+            "https://starwars.fandom.com/wiki/The_Academy"
+        ]
+    },
+    "Unidentified 2-1B-series medical droid": {
+        "name": "Unidentified 2-1B-series medical droid",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_2-1B_surgical_droid_(Alderaan)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Assassin_(episode)"
+        ]
+    },
+    "Unidentified Nikto criminal": {
+        "name": "Unidentified Nikto criminal",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Nikto_criminal",
+        "species": "Kajain'sa'Nikto[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Evil_Plans"
+        ]
+    },
+    "Unidentified RA-7 protocol droid": {
+        "name": "Unidentified RA-7 protocol droid",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_RA-7_protocol_droid_(Coruscant)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Evil_Plans"
+        ]
+    },
+    "Unidentified chorus girl": {
+        "name": "Unidentified chorus girl",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_chorus_girl",
+        "species": "Twi'lek[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Hunt_for_Ziro"
+        ]
+    },
+    "Unidentified Nikto senator": {
+        "name": "Unidentified Nikto senator",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Nikto_senator",
+        "species": "Nikto (Kajain'sa'Nikto)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Pursuit_of_Peace",
+            "https://starwars.fandom.com/wiki/Voices"
+        ]
+    },
+    "Unidentified B1 battle droid (R2-D2)": {
+        "name": "Unidentified B1 battle droid (R2-D2)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_B1-series_battle_droid_(R2-D2)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Citadel",
+            "https://starwars.fandom.com/wiki/Counterattack",
+            "https://starwars.fandom.com/wiki/Citadel_Rescue"
+        ]
+    },
+    "Unidentified B1 battle droid 2 (R2-D2)": {
+        "name": "Unidentified B1 battle droid 2 (R2-D2)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_B1_battle_droid_2_(R2-D2)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Citadel",
+            "https://starwars.fandom.com/wiki/Counterattack",
+            "https://starwars.fandom.com/wiki/Citadel_Rescue"
+        ]
+    },
+    "Unidentified BX-series droid commando captain (Citadel)": {
+        "name": "Unidentified BX-series droid commando captain (Citadel)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_BX-series_droid_commando_captain_(Citadel)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Citadel"
+        ]
+    },
+    "Unidentified clone navigation officer (Citadel)": {
+        "name": "Unidentified clone navigation officer (Citadel)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_clone_navigation_officer_(Citadel)",
+        "species": "Human (Clone)[3]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Citadel"
+        ]
+    },
+    "Unidentified EV-series medical droid": {
+        "name": "Unidentified EV-series medical droid",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_EV-series_interrogation_droid",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Citadel",
+            "https://starwars.fandom.com/wiki/Counterattack"
+        ]
+    },
+    "Unidentified Mon Calamari commander": {
+        "name": "Unidentified Mon Calamari commander",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Mon_Calamari_commander",
+        "species": "Mon Calamari[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Water_War",
+            "https://starwars.fandom.com/wiki/Gungan_Attack"
+        ]
+    },
+    "Unidentified T-series tactical droid 2 (Naboo)": {
+        "name": "Unidentified T-series tactical droid 2 (Naboo)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_T-series_tactical_droid_(Naboo)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Shadow_Warrior"
+        ]
+    },
+    "Unidentified Aleena 1": {
+        "name": "Unidentified Aleena 1",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Aleena_1",
+        "species": "Aleena[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Mercy_Mission_(episode)"
+        ]
+    },
+    "Unidentified Aleena 2": {
+        "name": "Unidentified Aleena 2",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Aleena_2",
+        "species": "Aleena[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Mercy_Mission_(episode)"
+        ]
+    },
+    "Unidentified DUM-series pit droid": {
+        "name": "Unidentified DUM-series pit droid",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_DUM-series_pit_droid_(Balnab)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Nomad_Droids"
+        ]
+    },
+    "Unidentified Patitite": {
+        "name": "Unidentified Patitite",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Patitite",
+        "species": "Patitite[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Nomad_Droids"
+        ]
+    },
+    "Unidentified Patitite 2": {
+        "name": "Unidentified Patitite 2",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Patitite_2",
+        "species": "Patitite[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Nomad_Droids"
+        ]
+    },
+    "Unidentified Patitite 3": {
+        "name": "Unidentified Patitite 3",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Patitite_3",
+        "species": "Patitite[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Nomad_Droids"
+        ]
+    },
+    "Unidentified Advanced Recon Force trooper": {
+        "name": "Unidentified Advanced Recon Force trooper",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Advanced_Recon_Force_trooper",
+        "species": "Human (clone)[3]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Darkness_on_Umbara"
+        ]
+    },
+    "Unidentified Twi'lek girl": {
+        "name": "Unidentified Twi'lek girl",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Twi%27lek_girl_(Zygerria)",
+        "species": "Twi'lek[2]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Slaves_of_the_Republic"
+        ]
+    },
+    "Unidentified Zygerrian auctioneer": {
+        "name": "Unidentified Zygerrian auctioneer",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Zygerrian_auctioneer",
+        "species": "Zygerrian[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Slaves_of_the_Republic"
+        ]
+    },
+    "Unidentified junk droid": {
+        "name": "Unidentified junk droid",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_junk_droid",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/A_Friend_in_Need"
+        ]
+    },
+    "Unidentified Anacondan": {
+        "name": "Unidentified Anacondan",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Anacondan",
+        "species": "Anacondan[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Deception"
+        ]
+    },
+    "Unidentified human barfly": {
+        "name": "Unidentified human barfly",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_barfly",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Deception"
+        ]
+    },
+    "Unidentified Karkarodon": {
+        "name": "Unidentified Karkarodon",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Karkarodon",
+        "species": "Karkarodon[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Deception"
+        ]
+    },
+    "Unidentified Ithorian bartender (Nal Hutta)": {
+        "name": "Unidentified Ithorian bartender (Nal Hutta)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Ithorian_bartender_(Nal_Hutta)",
+        "species": "Ithorian[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Friends_and_Enemies"
+        ]
+    },
+    "Unidentified Nikto guard (Nal Hutta)": {
+        "name": "Unidentified Nikto guard (Nal Hutta)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Nikto_guard_(Nal_Hutta)",
+        "species": "Nikto (Kajain'sa'Nikto)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Friends_and_Enemies"
+        ]
+    },
+    "Unidentified Nikto pilot": {
+        "name": "Unidentified Nikto pilot",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Nikto_pilot",
+        "species": "Nikto (Kajain'sa'Nikto)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Friends_and_Enemies"
+        ]
+    },
+    "Unidentified Sakiyan cargo hauler": {
+        "name": "Unidentified Sakiyan cargo hauler",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Sakiyan_cargo_hauler",
+        "species": "Sakiyan[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Brothers"
+        ]
+    },
+    "Unidentified BU-series droid bartender": {
+        "name": "Unidentified BU-series droid bartender",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_BU-series_droid_bartender",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Revenge_(episode)"
+        ]
+    },
+    "Unidentified Balnab bounty hunter": {
+        "name": "Unidentified Balnab bounty hunter",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Balnab_bounty_hunter",
+        "species": "Tentacle-faced species[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Revenge_(episode)"
+        ]
+    },
+    "Unidentified human bounty hunter (Tatooine)": {
+        "name": "Unidentified human bounty hunter (Tatooine)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_bounty_hunter_(Tatooine)",
+        "species": "mandalorian",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Revenge_(episode)"
+        ]
+    },
+    "Unidentified Weequay bounty hunter": {
+        "name": "Unidentified Weequay bounty hunter",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Weequay_bounty_hunter",
+        "species": "Weequay[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Revenge_(episode)"
+        ]
+    },
+    "Unidentified Nikto Jedi": {
+        "name": "Unidentified Nikto Jedi",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Nikto_Jedi",
+        "species": "Nikto (Kajain'sa'Nikto)[2]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Revival_(episode)"
+        ]
+    },
+    "Unidentified spaceport police droid": {
+        "name": "Unidentified spaceport police droid",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_spaceport_police_droid_(Cybloc_Transfer_Station)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Revival_(episode)"
+        ]
+    },
+    "Unidentified Weequay pirate 1": {
+        "name": "Unidentified Weequay pirate 1",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Weequay_pirate_1",
+        "species": "Weequay[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Revival_(episode)"
+        ]
+    },
+    "Unidentified Twi'lek child": {
+        "name": "Unidentified Twi'lek child",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Twi%27lek_child_(Onderon)",
+        "species": "Twi'lek[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Soft_War"
+        ]
+    },
+    "Unidentified female Onderonian rebel": {
+        "name": "Unidentified female Onderonian rebel",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_female_Onderonian_rebel",
+        "species": "Human (Onderonian)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Tipping_Points"
+        ]
+    },
+    "Unidentified Ishi Tib pirate": {
+        "name": "Unidentified Ishi Tib pirate",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Ishi_Tib_pirate",
+        "species": "Ishi Tib[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/A_Test_of_Strength",
+            "https://starwars.fandom.com/wiki/Bound_for_Rescue",
+            "https://starwars.fandom.com/wiki/A_Necessary_Bond"
+        ]
+    },
+    "Unidentified Weequay pirate 2": {
+        "name": "Unidentified Weequay pirate 2",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Weequay_pirate_2",
+        "species": "Weequay[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/A_Test_of_Strength",
+            "https://starwars.fandom.com/wiki/A_Necessary_Bond"
+        ]
+    },
+    "Unidentified Weequay pirate (Crucible)": {
+        "name": "Unidentified Weequay pirate (Crucible)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Weequay_pirate_(Crucible)",
+        "species": "Weequay[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/A_Test_of_Strength"
+        ]
+    },
+    "Unidentified Weequay pirate (dining hall)": {
+        "name": "Unidentified Weequay pirate (dining hall)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Weequay_pirate_(dining_hall)",
+        "species": "Weequay[2]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/A_Necessary_Bond"
+        ]
+    },
+    "Unidentified Aqualish": {
+        "name": "Unidentified Aqualish",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Aqualish_(Abafar)",
+        "species": "Aqualish[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Missing_in_Action"
+        ]
+    },
+    "Unidentified MSE-6 droid": {
+        "name": "Unidentified MSE-6 droid",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_MSE-6_droid_(Renown)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Point_of_No_Return_(The_Clone_Wars)"
+        ]
+    },
+    "Unidentified PLNK power droid": {
+        "name": "Unidentified PLNK power droid",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_PLNK_power_droid_(Renown)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Point_of_No_Return_(The_Clone_Wars)"
+        ]
+    },
+    "Unidentified super tactical droid": {
+        "name": "Unidentified super tactical droid",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_super_tactical_droid_(Carida)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Point_of_No_Return_(The_Clone_Wars)",
+            "https://starwars.fandom.com/wiki/Old_Friends_Not_Forgotten"
+        ]
+    },
+    "Unidentified Black Sun leader": {
+        "name": "Unidentified Black Sun leader",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Black_Sun_leader",
+        "species": "Falleen[2]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Eminence_(episode)"
+        ]
+    },
+    "Unidentified Death Watch soldier (white helmet)": {
+        "name": "Unidentified Death Watch soldier (white helmet)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Death_Watch_soldier_(white_helmet)",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Eminence_(episode)"
+        ]
+    },
+    "Unidentified GL vendor droid (Tatooine)": {
+        "name": "Unidentified GL vendor droid (Tatooine)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_translation_droid",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Eminence_(episode)"
+        ]
+    },
+    "Unidentified Death Watch soldier": {
+        "name": "Unidentified Death Watch soldier",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Death_Watch_soldier_(white_helmet)",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Shades_of_Reason",
+            "https://starwars.fandom.com/wiki/The_Lawless"
+        ]
+    },
+    "Unidentified Mandalorian police captain (bank)": {
+        "name": "Unidentified Mandalorian police captain (bank)",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Mandalorian_police_captain_(bank)",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Shades_of_Reason"
+        ]
+    },
+    "Unidentified Mandalorian police captain": {
+        "name": "Unidentified Mandalorian police captain",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Mandalorian_police_captain_(docks)",
+        "species": "Human[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Shades_of_Reason"
+        ]
+    },
+    "Unidentified Mandalorian police officer": {
+        "name": "Unidentified Mandalorian police officer",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Mandalorian_police_officer_(Mandalore)",
+        "species": "Human[2]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Shades_of_Reason"
+        ]
+    },
+    "Unidentified tour guide droid": {
+        "name": "Unidentified tour guide droid",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_tour_guide_droid",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Shades_of_Reason"
+        ]
+    },
+    "Unidentified Mandalorian super commando captain": {
+        "name": "Unidentified Mandalorian super commando captain",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Mandalorian_super_commando_captain",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Lawless"
+        ]
+    },
+    "Unidentified Pantoran witness": {
+        "name": "Unidentified Pantoran witness",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Pantoran_witness",
+        "species": "Pantoran[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Sabotage_(episode)"
+        ]
+    },
+    "Unidentified Clone Corporal": {
+        "name": "Unidentified Clone Corporal",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Clone_Corporal",
+        "species": "Human (clone)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Orders"
+        ]
+    },
+    "Unidentified elderly Muun": {
+        "name": "Unidentified elderly Muun",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_elderly_Muun",
+        "species": "Muun[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Rise_of_Clovis"
+        ]
+    },
+    "Unidentified Muun banker": {
+        "name": "Unidentified Muun banker",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Muun_banker",
+        "species": "Muun[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Rise_of_Clovis"
+        ]
+    },
+    "Unidentified Ming Po animal trainer": {
+        "name": "Unidentified Ming Po animal trainer",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Ming_Po_animal_trainer",
+        "species": "Human (Ming Po)[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Disappeared,_Part_II"
+        ]
+    },
+    "Unidentified Zygerrian cultist ally": {
+        "name": "Unidentified Zygerrian cultist ally",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Zygerrian_cultist_ally",
+        "species": "Zygerrian[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Disappeared,_Part_II"
+        ]
+    },
+    "Unidentified BX-series droid commando": {
+        "name": "Unidentified BX-series droid commando",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_BX-series_droid_commando_(Anaxes)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Bad_Batch_(episode)"
+        ]
+    },
+    "Unidentified T-series military strategic analysis and tactics droid": {
+        "name": "Unidentified T-series military strategic analysis and tactics droid",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_T-series_military_strategic_analysis_and_tactics_droid_(Anaxes)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Bad_Batch_(episode)",
+            "https://starwars.fandom.com/wiki/A_Distant_Echo"
+        ]
+    },
+    "Unidentified Yalbec queen": {
+        "name": "Unidentified Yalbec queen",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Yalbec_queen",
+        "species": "Yalbec[2]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Bad_Batch_(episode)"
+        ]
+    },
+    "Unidentified Poletec scout": {
+        "name": "Unidentified Poletec scout",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Poletec_scout",
+        "species": "Poletec[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/A_Distant_Echo"
+        ]
+    },
+    "Unidentified Purkoll citizen": {
+        "name": "Unidentified Purkoll citizen",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Purkoll_citizen",
+        "species": "Skakoan[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/A_Distant_Echo",
+            "https://starwars.fandom.com/wiki/On_the_Wings_of_Keeradaks"
+        ]
+    },
+    "Unidentified ST-series military strategic analysis and tactics droid": {
+        "name": "Unidentified ST-series military strategic analysis and tactics droid",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_ST-series_military_strategic_analysis_and_tactics_droid_(Anaxes)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Unfinished_Business_(episode)"
+        ]
+    },
+    "Unidentified pilot": {
+        "name": "Unidentified pilot",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_pilot_(Rafa_Martez)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Deal_No_Deal"
+        ]
+    },
+    "Unidentified Zygerrian overseer": {
+        "name": "Unidentified Zygerrian overseer",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Zygerrian_overseer",
+        "species": "Zygerrian[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Deal_No_Deal",
+            "https://starwars.fandom.com/wiki/Dangerous_Debt"
+        ]
+    },
+    "Unidentified 8D-series smelter droid": {
+        "name": "Unidentified 8D-series smelter droid",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_8D-series_smelter_droid",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Dangerous_Debt"
+        ]
+    },
+    "Unidentified Gotal beggar": {
+        "name": "Unidentified Gotal beggar",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Gotal_beggar",
+        "species": "Gotal[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Dangerous_Debt"
+        ]
+    },
+    "Unidentified Ithorian prisoner": {
+        "name": "Unidentified Ithorian prisoner",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Ithorian_prisoner",
+        "species": "Ithorian[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Dangerous_Debt"
+        ]
+    },
+    "Unidentified Weequay prisoner": {
+        "name": "Unidentified Weequay prisoner",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Weequay_prisoner",
+        "species": "Weequay[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Dangerous_Debt"
+        ]
+    },
+    "Unidentified Toong worker": {
+        "name": "Unidentified Toong worker",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Toong_worker",
+        "species": "Toong[1]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Together_Again"
+        ]
+    },
+    "Unidentified Trandoshan manager": {
+        "name": "Unidentified Trandoshan manager",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Trandoshan_manager",
+        "species": "Trandoshan[2]",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Together_Again"
+        ]
+    },
+    "Unidentified Gauntlet pilot": {
+        "name": "Unidentified Gauntlet pilot",
+        "character_url": "https://starwars.fandom.com/wiki/Unidentified_Gauntlet_pilot",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Phantom_Apprentice"
         ]
     }
 }

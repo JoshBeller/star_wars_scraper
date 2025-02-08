@@ -1,133 +1,133 @@
-1, URL: https://starwars.fandom.com/wiki/Ambush
-2, URL: https://starwars.fandom.com/wiki/Rising_Malevolence
-3, URL: https://starwars.fandom.com/wiki/Shadow_of_Malevolence
-4, URL: https://starwars.fandom.com/wiki/Destroy_Malevolence
-5, URL: https://starwars.fandom.com/wiki/Rookies
-6, URL: https://starwars.fandom.com/wiki/Downfall_of_a_Droid
-7, URL: https://starwars.fandom.com/wiki/Duel_of_the_Droids
-8, URL: https://starwars.fandom.com/wiki/Bombad_Jedi
-9, URL: https://starwars.fandom.com/wiki/Cloak_of_Darkness
-10, URL: https://starwars.fandom.com/wiki/Lair_of_Grievous
-11, URL: https://starwars.fandom.com/wiki/Dooku_Captured
-12, URL: https://starwars.fandom.com/wiki/The_Gungan_General
-13, URL: https://starwars.fandom.com/wiki/Jedi_Crash
-14, URL: https://starwars.fandom.com/wiki/Defenders_of_Peace
-15, URL: https://starwars.fandom.com/wiki/Trespass
-16, URL: https://starwars.fandom.com/wiki/The_Hidden_Enemy
-17, URL: https://starwars.fandom.com/wiki/Blue_Shadow_Virus_(episode)
-18, URL: https://starwars.fandom.com/wiki/Mystery_of_a_Thousand_Moons
-19, URL: https://starwars.fandom.com/wiki/Storm_Over_Ryloth
-20, URL: https://starwars.fandom.com/wiki/Innocents_of_Ryloth
-21, URL: https://starwars.fandom.com/wiki/Liberty_on_Ryloth
-22, URL: https://starwars.fandom.com/wiki/Hostage_Crisis
-1, URL: https://starwars.fandom.com/wiki/Holocron_Heist
-2, URL: https://starwars.fandom.com/wiki/Cargo_of_Doom
-3, URL: https://starwars.fandom.com/wiki/Children_of_the_Force
-4, URL: https://starwars.fandom.com/wiki/Senate_Spy
-5, URL: https://starwars.fandom.com/wiki/Landing_at_Point_Rain
-6, URL: https://starwars.fandom.com/wiki/Weapons_Factory
-7, URL: https://starwars.fandom.com/wiki/Legacy_of_Terror
-8, URL: https://starwars.fandom.com/wiki/Brain_Invaders
-9, URL: https://starwars.fandom.com/wiki/Grievous_Intrigue
-10, URL: https://starwars.fandom.com/wiki/The_Deserter
-11, URL: https://starwars.fandom.com/wiki/Lightsaber_Lost
-12, URL: https://starwars.fandom.com/wiki/The_Mandalore_Plot
-13, URL: https://starwars.fandom.com/wiki/Voyage_of_Temptation
-14, URL: https://starwars.fandom.com/wiki/Duchess_of_Mandalore
-15, URL: https://starwars.fandom.com/wiki/Senate_Murders
-16, URL: https://starwars.fandom.com/wiki/Cat_and_Mouse
-17, URL: https://starwars.fandom.com/wiki/Bounty_Hunters_(episode)
-18, URL: https://starwars.fandom.com/wiki/The_Zillo_Beast
-19, URL: https://starwars.fandom.com/wiki/The_Zillo_Beast_Strikes_Back
-20, URL: https://starwars.fandom.com/wiki/Death_Trap
-21, URL: https://starwars.fandom.com/wiki/R2_Come_Home
-22, URL: https://starwars.fandom.com/wiki/Lethal_Trackdown
-1, URL: https://starwars.fandom.com/wiki/Clone_Cadets
-2, URL: https://starwars.fandom.com/wiki/ARC_Troopers
-3, URL: https://starwars.fandom.com/wiki/Supply_Lines
-4, URL: https://starwars.fandom.com/wiki/Sphere_of_Influence
-5, URL: https://starwars.fandom.com/wiki/Corruption_(episode)
-6, URL: https://starwars.fandom.com/wiki/The_Academy
-7, URL: https://starwars.fandom.com/wiki/Assassin_(episode)
-8, URL: https://starwars.fandom.com/wiki/Evil_Plans
-9, URL: https://starwars.fandom.com/wiki/Hunt_for_Ziro
-10, URL: https://starwars.fandom.com/wiki/Heroes_on_Both_Sides
-11, URL: https://starwars.fandom.com/wiki/Pursuit_of_Peace
-12, URL: https://starwars.fandom.com/wiki/Nightsisters_(episode)
-13, URL: https://starwars.fandom.com/wiki/Monster
-14, URL: https://starwars.fandom.com/wiki/Witches_of_the_Mist
-15, URL: https://starwars.fandom.com/wiki/Overlords
-16, URL: https://starwars.fandom.com/wiki/Altar_of_Mortis_(episode)
-17, URL: https://starwars.fandom.com/wiki/Ghosts_of_Mortis
-18, URL: https://starwars.fandom.com/wiki/The_Citadel
-19, URL: https://starwars.fandom.com/wiki/Counterattack
-20, URL: https://starwars.fandom.com/wiki/Citadel_Rescue
-21, URL: https://starwars.fandom.com/wiki/Padawan_Lost
-22, URL: https://starwars.fandom.com/wiki/Wookiee_Hunt
-1, URL: https://starwars.fandom.com/wiki/Water_War
-2, URL: https://starwars.fandom.com/wiki/Gungan_Attack
-3, URL: https://starwars.fandom.com/wiki/Prisoners
-4, URL: https://starwars.fandom.com/wiki/Shadow_Warrior
-5, URL: https://starwars.fandom.com/wiki/Mercy_Mission_(episode)
-6, URL: https://starwars.fandom.com/wiki/Nomad_Droids
-7, URL: https://starwars.fandom.com/wiki/Darkness_on_Umbara
-8, URL: https://starwars.fandom.com/wiki/The_General_(episode)
-9, URL: https://starwars.fandom.com/wiki/Plan_of_Dissent
-10, URL: https://starwars.fandom.com/wiki/Carnage_of_Krell
-11, URL: https://starwars.fandom.com/wiki/Kidnapped
-12, URL: https://starwars.fandom.com/wiki/Slaves_of_the_Republic
-13, URL: https://starwars.fandom.com/wiki/Escape_from_Kadavo
-14, URL: https://starwars.fandom.com/wiki/A_Friend_in_Need
-15, URL: https://starwars.fandom.com/wiki/Deception
-16, URL: https://starwars.fandom.com/wiki/Friends_and_Enemies
-17, URL: https://starwars.fandom.com/wiki/The_Box
-18, URL: https://starwars.fandom.com/wiki/Crisis_on_Naboo
-19, URL: https://starwars.fandom.com/wiki/Massacre
-20, URL: https://starwars.fandom.com/wiki/Bounty_(episode)
-21, URL: https://starwars.fandom.com/wiki/Brothers
-22, URL: https://starwars.fandom.com/wiki/Revenge_(episode)
-1, URL: https://starwars.fandom.com/wiki/Revival_(episode)
-2, URL: https://starwars.fandom.com/wiki/A_War_on_Two_Fronts
-3, URL: https://starwars.fandom.com/wiki/Front_Runners
-4, URL: https://starwars.fandom.com/wiki/The_Soft_War
-5, URL: https://starwars.fandom.com/wiki/Tipping_Points
-6, URL: https://starwars.fandom.com/wiki/The_Gathering_(episode)
-7, URL: https://starwars.fandom.com/wiki/A_Test_of_Strength
-8, URL: https://starwars.fandom.com/wiki/Bound_for_Rescue
-9, URL: https://starwars.fandom.com/wiki/A_Necessary_Bond
-10, URL: https://starwars.fandom.com/wiki/Secret_Weapons
-11, URL: https://starwars.fandom.com/wiki/A_Sunny_Day_in_the_Void
-12, URL: https://starwars.fandom.com/wiki/Missing_in_Action
-13, URL: https://starwars.fandom.com/wiki/Point_of_No_Return_(The_Clone_Wars)
-14, URL: https://starwars.fandom.com/wiki/Eminence_(episode)
-15, URL: https://starwars.fandom.com/wiki/Shades_of_Reason
-16, URL: https://starwars.fandom.com/wiki/The_Lawless
-17, URL: https://starwars.fandom.com/wiki/Sabotage_(episode)
-18, URL: https://starwars.fandom.com/wiki/The_Jedi_Who_Knew_Too_Much
-19, URL: https://starwars.fandom.com/wiki/To_Catch_a_Jedi
-20, URL: https://starwars.fandom.com/wiki/The_Wrong_Jedi
-1, URL: https://starwars.fandom.com/wiki/The_Unknown
-2, URL: https://starwars.fandom.com/wiki/Conspiracy
-3, URL: https://starwars.fandom.com/wiki/Fugitive
-4, URL: https://starwars.fandom.com/wiki/Orders
-5, URL: https://starwars.fandom.com/wiki/An_Old_Friend
-6, URL: https://starwars.fandom.com/wiki/The_Rise_of_Clovis
-7, URL: https://starwars.fandom.com/wiki/Crisis_at_the_Heart
-8, URL: https://starwars.fandom.com/wiki/The_Disappeared,_Part_I
-9, URL: https://starwars.fandom.com/wiki/The_Disappeared,_Part_II
-10, URL: https://starwars.fandom.com/wiki/The_Lost_One
-11, URL: https://starwars.fandom.com/wiki/Voices
-12, URL: https://starwars.fandom.com/wiki/Destiny_(The_Clone_Wars)
-13, URL: https://starwars.fandom.com/wiki/Sacrifice
-1, URL: https://starwars.fandom.com/wiki/The_Bad_Batch_(episode)
-2, URL: https://starwars.fandom.com/wiki/A_Distant_Echo
-3, URL: https://starwars.fandom.com/wiki/On_the_Wings_of_Keeradaks
-4, URL: https://starwars.fandom.com/wiki/Unfinished_Business_(episode)
-5, URL: https://starwars.fandom.com/wiki/Gone_with_a_Trace
-6, URL: https://starwars.fandom.com/wiki/Deal_No_Deal
-7, URL: https://starwars.fandom.com/wiki/Dangerous_Debt
-8, URL: https://starwars.fandom.com/wiki/Together_Again
-9, URL: https://starwars.fandom.com/wiki/Old_Friends_Not_Forgotten
-10, URL: https://starwars.fandom.com/wiki/The_Phantom_Apprentice
-11, URL: https://starwars.fandom.com/wiki/Shattered
-12, URL: https://starwars.fandom.com/wiki/Victory_and_Death
+https://starwars.fandom.com/wiki/Ambush
+https://starwars.fandom.com/wiki/Rising_Malevolence
+https://starwars.fandom.com/wiki/Shadow_of_Malevolence
+https://starwars.fandom.com/wiki/Destroy_Malevolence
+https://starwars.fandom.com/wiki/Rookies
+https://starwars.fandom.com/wiki/Downfall_of_a_Droid
+https://starwars.fandom.com/wiki/Duel_of_the_Droids
+https://starwars.fandom.com/wiki/Bombad_Jedi
+https://starwars.fandom.com/wiki/Cloak_of_Darkness
+https://starwars.fandom.com/wiki/Lair_of_Grievous
+https://starwars.fandom.com/wiki/Dooku_Captured
+https://starwars.fandom.com/wiki/The_Gungan_General
+https://starwars.fandom.com/wiki/Jedi_Crash
+https://starwars.fandom.com/wiki/Defenders_of_Peace
+https://starwars.fandom.com/wiki/Trespass
+https://starwars.fandom.com/wiki/The_Hidden_Enemy
+https://starwars.fandom.com/wiki/Blue_Shadow_Virus_(episode)
+https://starwars.fandom.com/wiki/Mystery_of_a_Thousand_Moons
+https://starwars.fandom.com/wiki/Storm_Over_Ryloth
+https://starwars.fandom.com/wiki/Innocents_of_Ryloth
+https://starwars.fandom.com/wiki/Liberty_on_Ryloth
+https://starwars.fandom.com/wiki/Hostage_Crisis
+https://starwars.fandom.com/wiki/Holocron_Heist
+https://starwars.fandom.com/wiki/Cargo_of_Doom
+https://starwars.fandom.com/wiki/Children_of_the_Force
+https://starwars.fandom.com/wiki/Senate_Spy
+https://starwars.fandom.com/wiki/Landing_at_Point_Rain
+https://starwars.fandom.com/wiki/Weapons_Factory
+https://starwars.fandom.com/wiki/Legacy_of_Terror
+https://starwars.fandom.com/wiki/Brain_Invaders
+https://starwars.fandom.com/wiki/Grievous_Intrigue
+https://starwars.fandom.com/wiki/The_Deserter
+https://starwars.fandom.com/wiki/Lightsaber_Lost
+https://starwars.fandom.com/wiki/The_Mandalore_Plot
+https://starwars.fandom.com/wiki/Voyage_of_Temptation
+https://starwars.fandom.com/wiki/Duchess_of_Mandalore
+https://starwars.fandom.com/wiki/Senate_Murders
+https://starwars.fandom.com/wiki/Cat_and_Mouse
+https://starwars.fandom.com/wiki/Bounty_Hunters_(episode)
+https://starwars.fandom.com/wiki/The_Zillo_Beast
+https://starwars.fandom.com/wiki/The_Zillo_Beast_Strikes_Back
+https://starwars.fandom.com/wiki/Death_Trap
+https://starwars.fandom.com/wiki/R2_Come_Home
+https://starwars.fandom.com/wiki/Lethal_Trackdown
+https://starwars.fandom.com/wiki/Clone_Cadets
+https://starwars.fandom.com/wiki/ARC_Troopers
+https://starwars.fandom.com/wiki/Supply_Lines
+https://starwars.fandom.com/wiki/Sphere_of_Influence
+https://starwars.fandom.com/wiki/Corruption_(episode)
+https://starwars.fandom.com/wiki/The_Academy
+https://starwars.fandom.com/wiki/Assassin_(episode)
+https://starwars.fandom.com/wiki/Evil_Plans
+https://starwars.fandom.com/wiki/Hunt_for_Ziro
+https://starwars.fandom.com/wiki/Heroes_on_Both_Sides
+https://starwars.fandom.com/wiki/Pursuit_of_Peace
+https://starwars.fandom.com/wiki/Nightsisters_(episode)
+https://starwars.fandom.com/wiki/Monster
+https://starwars.fandom.com/wiki/Witches_of_the_Mist
+https://starwars.fandom.com/wiki/Overlords
+https://starwars.fandom.com/wiki/Altar_of_Mortis_(episode)
+https://starwars.fandom.com/wiki/Ghosts_of_Mortis
+https://starwars.fandom.com/wiki/The_Citadel
+https://starwars.fandom.com/wiki/Counterattack
+https://starwars.fandom.com/wiki/Citadel_Rescue
+https://starwars.fandom.com/wiki/Padawan_Lost
+https://starwars.fandom.com/wiki/Wookiee_Hunt
+https://starwars.fandom.com/wiki/Water_War
+https://starwars.fandom.com/wiki/Gungan_Attack
+https://starwars.fandom.com/wiki/Prisoners
+https://starwars.fandom.com/wiki/Shadow_Warrior
+https://starwars.fandom.com/wiki/Mercy_Mission_(episode)
+https://starwars.fandom.com/wiki/Nomad_Droids
+https://starwars.fandom.com/wiki/Darkness_on_Umbara
+https://starwars.fandom.com/wiki/The_General_(episode)
+https://starwars.fandom.com/wiki/Plan_of_Dissent
+https://starwars.fandom.com/wiki/Carnage_of_Krell
+https://starwars.fandom.com/wiki/Kidnapped
+https://starwars.fandom.com/wiki/Slaves_of_the_Republic
+https://starwars.fandom.com/wiki/Escape_from_Kadavo
+https://starwars.fandom.com/wiki/A_Friend_in_Need
+https://starwars.fandom.com/wiki/Deception
+https://starwars.fandom.com/wiki/Friends_and_Enemies
+https://starwars.fandom.com/wiki/The_Box
+https://starwars.fandom.com/wiki/Crisis_on_Naboo
+https://starwars.fandom.com/wiki/Massacre
+https://starwars.fandom.com/wiki/Bounty_(episode)
+https://starwars.fandom.com/wiki/Brothers
+https://starwars.fandom.com/wiki/Revenge_(episode)
+https://starwars.fandom.com/wiki/Revival_(episode)
+https://starwars.fandom.com/wiki/A_War_on_Two_Fronts
+https://starwars.fandom.com/wiki/Front_Runners
+https://starwars.fandom.com/wiki/The_Soft_War
+https://starwars.fandom.com/wiki/Tipping_Points
+https://starwars.fandom.com/wiki/The_Gathering_(episode)
+https://starwars.fandom.com/wiki/A_Test_of_Strength
+https://starwars.fandom.com/wiki/Bound_for_Rescue
+https://starwars.fandom.com/wiki/A_Necessary_Bond
+https://starwars.fandom.com/wiki/Secret_Weapons
+https://starwars.fandom.com/wiki/A_Sunny_Day_in_the_Void
+https://starwars.fandom.com/wiki/Missing_in_Action
+https://starwars.fandom.com/wiki/Point_of_No_Return_(The_Clone_Wars)
+https://starwars.fandom.com/wiki/Eminence_(episode)
+https://starwars.fandom.com/wiki/Shades_of_Reason
+https://starwars.fandom.com/wiki/The_Lawless
+https://starwars.fandom.com/wiki/Sabotage_(episode)
+https://starwars.fandom.com/wiki/The_Jedi_Who_Knew_Too_Much
+https://starwars.fandom.com/wiki/To_Catch_a_Jedi
+https://starwars.fandom.com/wiki/The_Wrong_Jedi
+https://starwars.fandom.com/wiki/The_Unknown
+https://starwars.fandom.com/wiki/Conspiracy
+https://starwars.fandom.com/wiki/Fugitive
+https://starwars.fandom.com/wiki/Orders
+https://starwars.fandom.com/wiki/An_Old_Friend
+https://starwars.fandom.com/wiki/The_Rise_of_Clovis
+https://starwars.fandom.com/wiki/Crisis_at_the_Heart
+https://starwars.fandom.com/wiki/The_Disappeared,_Part_I
+https://starwars.fandom.com/wiki/The_Disappeared,_Part_II
+https://starwars.fandom.com/wiki/The_Lost_One
+https://starwars.fandom.com/wiki/Voices
+https://starwars.fandom.com/wiki/Destiny_(The_Clone_Wars)
+https://starwars.fandom.com/wiki/Sacrifice
+https://starwars.fandom.com/wiki/The_Bad_Batch_(episode)
+https://starwars.fandom.com/wiki/A_Distant_Echo
+https://starwars.fandom.com/wiki/On_the_Wings_of_Keeradaks
+https://starwars.fandom.com/wiki/Unfinished_Business_(episode)
+https://starwars.fandom.com/wiki/Gone_with_a_Trace
+https://starwars.fandom.com/wiki/Deal_No_Deal
+https://starwars.fandom.com/wiki/Dangerous_Debt
+https://starwars.fandom.com/wiki/Together_Again
+https://starwars.fandom.com/wiki/Old_Friends_Not_Forgotten
+https://starwars.fandom.com/wiki/The_Phantom_Apprentice
+https://starwars.fandom.com/wiki/Shattered
+https://starwars.fandom.com/wiki/Victory_and_Death

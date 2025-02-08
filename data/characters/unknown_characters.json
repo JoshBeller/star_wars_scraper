@@ -1,18 +1,186 @@
 {
-    "4-A7": {
-        "name": "4-A7",
-        "character_url": "https://starwars.fandom.com/wiki/4-A7",
+    "1138": {
+        "name": "1138",
+        "character_url": "https://starwars.fandom.com/wiki/1138_(Trade_Federation)",
         "species": "Unknown",
         "appearances": [
-            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones"
         ]
     },
-    "BU-11": {
-        "name": "BU-11",
-        "character_url": "https://starwars.fandom.com/wiki/BU-11",
+    "1234": {
+        "name": "1234",
+        "character_url": "https://starwars.fandom.com/wiki/1234",
         "species": "Unknown",
         "appearances": [
-            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "1373": {
+        "name": "1373",
+        "character_url": "https://starwars.fandom.com/wiki/1373",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "1472": {
+        "name": "1472",
+        "character_url": "https://starwars.fandom.com/wiki/1472",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "1933": {
+        "name": "1933",
+        "character_url": "https://starwars.fandom.com/wiki/1933",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "2163": {
+        "name": "2163",
+        "character_url": "https://starwars.fandom.com/wiki/2163",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "2296": {
+        "name": "2296",
+        "character_url": "https://starwars.fandom.com/wiki/2296",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "2391": {
+        "name": "2391",
+        "character_url": "https://starwars.fandom.com/wiki/2391",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "2714": {
+        "name": "2714",
+        "character_url": "https://starwars.fandom.com/wiki/2714",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "2767": {
+        "name": "2767",
+        "character_url": "https://starwars.fandom.com/wiki/2767",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "2943": {
+        "name": "2943",
+        "character_url": "https://starwars.fandom.com/wiki/2943",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "3271": {
+        "name": "3271",
+        "character_url": "https://starwars.fandom.com/wiki/3271",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "3B3-21": {
+        "name": "3B3-21",
+        "character_url": "https://starwars.fandom.com/wiki/3B3-21",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "6369": {
+        "name": "6369",
+        "character_url": "https://starwars.fandom.com/wiki/6369",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "7169": {
+        "name": "7169",
+        "character_url": "https://starwars.fandom.com/wiki/7169",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "7276": {
+        "name": "7276",
+        "character_url": "https://starwars.fandom.com/wiki/7276",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "7824": {
+        "name": "7824",
+        "character_url": "https://starwars.fandom.com/wiki/7824",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "deleted scene(s)": {
+        "name": "deleted scene(s)",
+        "character_url": "https://starwars.fandom.com/wiki/Content_cut_from_Star_Wars",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker",
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story",
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story",
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story",
+            "https://starwars.fandom.com/wiki/Nightsisters_(episode)",
+            "https://starwars.fandom.com/wiki/Ghosts_of_Mortis",
+            "https://starwars.fandom.com/wiki/Ghosts_of_Mortis",
+            "https://starwars.fandom.com/wiki/Friends_and_Enemies"
         ]
     },
     "C-3PO": {
@@ -20,39 +188,129 @@
         "character_url": "https://starwars.fandom.com/wiki/C-3PO",
         "species": "Unknown",
         "appearances": [
-            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker",
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story",
+            "https://starwars.fandom.com/wiki/Destroy_Malevolence",
+            "https://starwars.fandom.com/wiki/Bombad_Jedi",
+            "https://starwars.fandom.com/wiki/Cloak_of_Darkness",
+            "https://starwars.fandom.com/wiki/Trespass",
+            "https://starwars.fandom.com/wiki/Blue_Shadow_Virus_(episode)",
+            "https://starwars.fandom.com/wiki/Mystery_of_a_Thousand_Moons",
+            "https://starwars.fandom.com/wiki/Hostage_Crisis",
+            "https://starwars.fandom.com/wiki/Senate_Spy",
+            "https://starwars.fandom.com/wiki/Lightsaber_Lost",
+            "https://starwars.fandom.com/wiki/The_Mandalore_Plot",
+            "https://starwars.fandom.com/wiki/Duchess_of_Mandalore",
+            "https://starwars.fandom.com/wiki/Senate_Murders",
+            "https://starwars.fandom.com/wiki/The_Zillo_Beast_Strikes_Back",
+            "https://starwars.fandom.com/wiki/Sphere_of_Influence",
+            "https://starwars.fandom.com/wiki/Corruption_(episode)",
+            "https://starwars.fandom.com/wiki/Assassin_(episode)",
+            "https://starwars.fandom.com/wiki/Evil_Plans",
+            "https://starwars.fandom.com/wiki/Hunt_for_Ziro",
+            "https://starwars.fandom.com/wiki/The_Citadel",
+            "https://starwars.fandom.com/wiki/Mercy_Mission_(episode)",
+            "https://starwars.fandom.com/wiki/Nomad_Droids"
         ]
     },
-    "HELIOS-3D": {
-        "name": "HELIOS-3D",
-        "character_url": "https://starwars.fandom.com/wiki/HELIOS-3D",
+    "DUM-4": {
+        "name": "DUM-4",
+        "character_url": "https://starwars.fandom.com/wiki/DUM-4",
         "species": "Unknown",
         "appearances": [
-            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
         ]
     },
-    "KRONOS-327": {
-        "name": "KRONOS-327",
-        "character_url": "https://starwars.fandom.com/wiki/KRONOS-327",
+    "G8-R3": {
+        "name": "G8-R3",
+        "character_url": "https://starwars.fandom.com/wiki/G8-R3",
         "species": "Unknown",
         "appearances": [
-            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
         ]
     },
-    "Whorm Loathsom's LEP servant droid": {
-        "name": "Whorm Loathsom's LEP servant droid",
-        "character_url": "https://starwars.fandom.com/wiki/Whorm_Loathsom%27s_LEP_servant_droid",
+    "Retcon": {
+        "name": "Retcon",
+        "character_url": "https://starwars.fandom.com/wiki/Retroactive_continuity",
         "species": "Unknown",
         "appearances": [
-            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi",
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story",
+            "https://starwars.fandom.com/wiki/The_Wrong_Jedi"
         ]
     },
-    "R2-C2": {
-        "name": "R2-C2",
-        "character_url": "https://starwars.fandom.com/wiki/R2-C2",
+    "Nobot": {
+        "name": "Nobot",
+        "character_url": "https://starwars.fandom.com/wiki/Nobot",
         "species": "Unknown",
         "appearances": [
-            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "OOM-9": {
+        "name": "OOM-9",
+        "character_url": "https://starwars.fandom.com/wiki/OOM-9",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "OWO-1": {
+        "name": "OWO-1",
+        "character_url": "https://starwars.fandom.com/wiki/OWO-1",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "PK-4": {
+        "name": "PK-4",
+        "character_url": "https://starwars.fandom.com/wiki/PK-4",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "R2-A6": {
+        "name": "R2-A6",
+        "character_url": "https://starwars.fandom.com/wiki/R2-A6",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "R2-B1": {
+        "name": "R2-B1",
+        "character_url": "https://starwars.fandom.com/wiki/R2-B1",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "R2-C4": {
+        "name": "R2-C4",
+        "character_url": "https://starwars.fandom.com/wiki/R2-C4_(Naboo)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
         ]
     },
     "R2-D2": {
@@ -60,15 +318,243 @@
         "character_url": "https://starwars.fandom.com/wiki/R2-D2",
         "species": "Unknown",
         "appearances": [
-            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker",
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story",
+            "https://starwars.fandom.com/wiki/Rising_Malevolence",
+            "https://starwars.fandom.com/wiki/Shadow_of_Malevolence",
+            "https://starwars.fandom.com/wiki/Destroy_Malevolence",
+            "https://starwars.fandom.com/wiki/Rookies",
+            "https://starwars.fandom.com/wiki/Downfall_of_a_Droid",
+            "https://starwars.fandom.com/wiki/Duel_of_the_Droids",
+            "https://starwars.fandom.com/wiki/Bombad_Jedi",
+            "https://starwars.fandom.com/wiki/Trespass",
+            "https://starwars.fandom.com/wiki/The_Hidden_Enemy",
+            "https://starwars.fandom.com/wiki/Blue_Shadow_Virus_(episode)",
+            "https://starwars.fandom.com/wiki/Mystery_of_a_Thousand_Moons",
+            "https://starwars.fandom.com/wiki/Storm_Over_Ryloth",
+            "https://starwars.fandom.com/wiki/Liberty_on_Ryloth",
+            "https://starwars.fandom.com/wiki/Cargo_of_Doom",
+            "https://starwars.fandom.com/wiki/Children_of_the_Force",
+            "https://starwars.fandom.com/wiki/Senate_Spy",
+            "https://starwars.fandom.com/wiki/Weapons_Factory",
+            "https://starwars.fandom.com/wiki/Voyage_of_Temptation",
+            "https://starwars.fandom.com/wiki/The_Zillo_Beast",
+            "https://starwars.fandom.com/wiki/The_Zillo_Beast_Strikes_Back",
+            "https://starwars.fandom.com/wiki/Death_Trap",
+            "https://starwars.fandom.com/wiki/R2_Come_Home",
+            "https://starwars.fandom.com/wiki/Lethal_Trackdown",
+            "https://starwars.fandom.com/wiki/ARC_Troopers",
+            "https://starwars.fandom.com/wiki/Evil_Plans",
+            "https://starwars.fandom.com/wiki/Nightsisters_(episode)",
+            "https://starwars.fandom.com/wiki/The_Citadel",
+            "https://starwars.fandom.com/wiki/Counterattack",
+            "https://starwars.fandom.com/wiki/Citadel_Rescue",
+            "https://starwars.fandom.com/wiki/Mercy_Mission_(episode)",
+            "https://starwars.fandom.com/wiki/Nomad_Droids",
+            "https://starwars.fandom.com/wiki/Darkness_on_Umbara",
+            "https://starwars.fandom.com/wiki/Kidnapped",
+            "https://starwars.fandom.com/wiki/Slaves_of_the_Republic",
+            "https://starwars.fandom.com/wiki/Escape_from_Kadavo",
+            "https://starwars.fandom.com/wiki/A_Friend_in_Need",
+            "https://starwars.fandom.com/wiki/Tipping_Points",
+            "https://starwars.fandom.com/wiki/The_Gathering_(episode)",
+            "https://starwars.fandom.com/wiki/A_Test_of_Strength",
+            "https://starwars.fandom.com/wiki/Bound_for_Rescue",
+            "https://starwars.fandom.com/wiki/A_Necessary_Bond",
+            "https://starwars.fandom.com/wiki/Secret_Weapons",
+            "https://starwars.fandom.com/wiki/A_Sunny_Day_in_the_Void",
+            "https://starwars.fandom.com/wiki/Missing_in_Action",
+            "https://starwars.fandom.com/wiki/Point_of_No_Return_(The_Clone_Wars)",
+            "https://starwars.fandom.com/wiki/Sabotage_(episode)",
+            "https://starwars.fandom.com/wiki/Fugitive",
+            "https://starwars.fandom.com/wiki/An_Old_Friend",
+            "https://starwars.fandom.com/wiki/The_Rise_of_Clovis",
+            "https://starwars.fandom.com/wiki/Voices",
+            "https://starwars.fandom.com/wiki/Destiny_(The_Clone_Wars)",
+            "https://starwars.fandom.com/wiki/Sacrifice",
+            "https://starwars.fandom.com/wiki/Old_Friends_Not_Forgotten"
         ]
     },
-    "R2-KT": {
-        "name": "R2-KT",
-        "character_url": "https://starwars.fandom.com/wiki/R2-KT",
+    "R2-M5": {
+        "name": "R2-M5",
+        "character_url": "https://starwars.fandom.com/wiki/R2-M5",
         "species": "Unknown",
         "appearances": [
-            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "R2-N3": {
+        "name": "R2-N3",
+        "character_url": "https://starwars.fandom.com/wiki/R2-N3",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "R2-R9": {
+        "name": "R2-R9",
+        "character_url": "https://starwars.fandom.com/wiki/R2-R9",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "TC-4": {
+        "name": "TC-4",
+        "character_url": "https://starwars.fandom.com/wiki/TC-4",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "TC-14": {
+        "name": "TC-14",
+        "character_url": "https://starwars.fandom.com/wiki/TC-14",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "Deland Tyerell": {
+        "name": "Deland Tyerell",
+        "character_url": "https://starwars.fandom.com/wiki/Deland_Tyerell",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_I_The_Phantom_Menace"
+        ]
+    },
+    "2638": {
+        "name": "2638",
+        "character_url": "https://starwars.fandom.com/wiki/2638_(Geonosis)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith"
+        ]
+    },
+    "2684": {
+        "name": "2684",
+        "character_url": "https://starwars.fandom.com/wiki/2684",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones"
+        ]
+    },
+    "2934": {
+        "name": "2934",
+        "character_url": "https://starwars.fandom.com/wiki/2934",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones"
+        ]
+    },
+    "3464": {
+        "name": "3464",
+        "character_url": "https://starwars.fandom.com/wiki/3464",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones"
+        ]
+    },
+    "Chon Actrion": {
+        "name": "Chon Actrion",
+        "character_url": "https://starwars.fandom.com/wiki/Chon_Actrion",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones"
+        ]
+    },
+    "ASN-121": {
+        "name": "ASN-121",
+        "character_url": "https://starwars.fandom.com/wiki/ASN-121",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones"
+        ]
+    },
+    "Buffy": {
+        "name": "Buffy",
+        "character_url": "https://starwars.fandom.com/wiki/Buffy",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones"
+        ]
+    },
+    "COO-2180": {
+        "name": "COO-2180",
+        "character_url": "https://starwars.fandom.com/wiki/COO-2180",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones"
+        ]
+    },
+    "Braata Danlos": {
+        "name": "Braata Danlos",
+        "character_url": "https://starwars.fandom.com/wiki/Braata_Danlos",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith",
+            "https://starwars.fandom.com/wiki/The_Zillo_Beast_Strikes_Back",
+            "https://starwars.fandom.com/wiki/Conspiracy",
+            "https://starwars.fandom.com/wiki/The_Rise_of_Clovis",
+            "https://starwars.fandom.com/wiki/Crisis_at_the_Heart"
+        ]
+    },
+    "FLO": {
+        "name": "FLO",
+        "character_url": "https://starwars.fandom.com/wiki/FLO",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones"
+        ]
+    },
+    "Palo Jemabie": {
+        "name": "Palo Jemabie",
+        "character_url": "https://starwars.fandom.com/wiki/Palo_Jemabie",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones"
+        ]
+    },
+    "Mick": {
+        "name": "Mick",
+        "character_url": "https://starwars.fandom.com/wiki/Mick",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones"
+        ]
+    },
+    "R2-H7": {
+        "name": "R2-H7",
+        "character_url": "https://starwars.fandom.com/wiki/R2-H7",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones"
+        ]
+    },
+    "R2-L3": {
+        "name": "R2-L3",
+        "character_url": "https://starwars.fandom.com/wiki/R2-L3",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones"
+        ]
+    },
+    "R3-T7": {
+        "name": "R3-T7",
+        "character_url": "https://starwars.fandom.com/wiki/R3-T7",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones"
         ]
     },
     "R4-P17": {
@@ -76,7 +562,2002 @@
         "character_url": "https://starwars.fandom.com/wiki/R4-P17",
         "species": "Unknown",
         "appearances": [
-            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith",
+            "https://starwars.fandom.com/wiki/Children_of_the_Force",
+            "https://starwars.fandom.com/wiki/The_Mandalore_Plot",
+            "https://starwars.fandom.com/wiki/Voyage_of_Temptation",
+            "https://starwars.fandom.com/wiki/Nightsisters_(episode)",
+            "https://starwars.fandom.com/wiki/Voices",
+            "https://starwars.fandom.com/wiki/Unfinished_Business_(episode)"
+        ]
+    },
+    "R5-D4": {
+        "name": "R5-D4",
+        "character_url": "https://starwars.fandom.com/wiki/R5-D4",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "RIC-920": {
+        "name": "RIC-920",
+        "character_url": "https://starwars.fandom.com/wiki/RIC-920",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones"
+        ]
+    },
+    "Sistros Nevet": {
+        "name": "Sistros Nevet",
+        "character_url": "https://starwars.fandom.com/wiki/Sistros_Nevet",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith",
+            "https://starwars.fandom.com/wiki/Duchess_of_Mandalore",
+            "https://starwars.fandom.com/wiki/Senate_Murders",
+            "https://starwars.fandom.com/wiki/The_Zillo_Beast",
+            "https://starwars.fandom.com/wiki/The_Zillo_Beast_Strikes_Back",
+            "https://starwars.fandom.com/wiki/Pursuit_of_Peace",
+            "https://starwars.fandom.com/wiki/Friends_and_Enemies",
+            "https://starwars.fandom.com/wiki/The_Lawless",
+            "https://starwars.fandom.com/wiki/The_Wrong_Jedi",
+            "https://starwars.fandom.com/wiki/Orders",
+            "https://starwars.fandom.com/wiki/The_Rise_of_Clovis",
+            "https://starwars.fandom.com/wiki/The_Disappeared,_Part_I",
+            "https://starwars.fandom.com/wiki/The_Lost_One"
+        ]
+    },
+    "Ela Tips": {
+        "name": "Ela Tips",
+        "character_url": "https://starwars.fandom.com/wiki/Ela_Tips",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones"
+        ]
+    },
+    "Cellheim Anujo": {
+        "name": "Cellheim Anujo",
+        "character_url": "https://starwars.fandom.com/wiki/Cellheim_Anujo",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith"
+        ]
+    },
+    "Eeusu Estornii": {
+        "name": "Eeusu Estornii",
+        "character_url": "https://starwars.fandom.com/wiki/Eeusu_Estornii",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith"
+        ]
+    },
+    "Faya Rodemos": {
+        "name": "Faya Rodemos",
+        "character_url": "https://starwars.fandom.com/wiki/Faya_Rodemos",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith"
+        ]
+    },
+    "FX-6": {
+        "name": "FX-6",
+        "character_url": "https://starwars.fandom.com/wiki/FX-6",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith"
+        ]
+    },
+    "IG-101": {
+        "name": "IG-101",
+        "character_url": "https://starwars.fandom.com/wiki/IG-101",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith"
+        ]
+    },
+    "IG-102": {
+        "name": "IG-102",
+        "character_url": "https://starwars.fandom.com/wiki/IG-102",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith"
+        ]
+    },
+    "Kagi": {
+        "name": "Kagi",
+        "character_url": "https://starwars.fandom.com/wiki/Kagi",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith"
+        ]
+    },
+    "Corla Metonae": {
+        "name": "Corla Metonae",
+        "character_url": "https://starwars.fandom.com/wiki/Corla_Metonae",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith"
+        ]
+    },
+    "R4-F5": {
+        "name": "R4-F5",
+        "character_url": "https://starwars.fandom.com/wiki/R4-F5",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith"
+        ]
+    },
+    "R4-G9": {
+        "name": "R4-G9",
+        "character_url": "https://starwars.fandom.com/wiki/R4-G9",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith"
+        ]
+    },
+    "R4-P44": {
+        "name": "R4-P44",
+        "character_url": "https://starwars.fandom.com/wiki/R4-P44",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith"
+        ]
+    },
+    "Yanjon Zelmar": {
+        "name": "Yanjon Zelmar",
+        "character_url": "https://starwars.fandom.com/wiki/Yanjon_Zelmar",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith"
+        ]
+    },
+    "53": {
+        "name": "53",
+        "character_url": "https://starwars.fandom.com/wiki/53",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "316": {
+        "name": "316",
+        "character_url": "https://starwars.fandom.com/wiki/316",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "517": {
+        "name": "517",
+        "character_url": "https://starwars.fandom.com/wiki/517",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "2X-3KPR": {
+        "name": "2X-3KPR",
+        "character_url": "https://starwars.fandom.com/wiki/2X-3KPR",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "CZ-1": {
+        "name": "CZ-1",
+        "character_url": "https://starwars.fandom.com/wiki/CZ-1",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "CZ-3": {
+        "name": "CZ-3",
+        "character_url": "https://starwars.fandom.com/wiki/CZ-3",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "Deak": {
+        "name": "Deak",
+        "character_url": "https://starwars.fandom.com/wiki/Deak",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "Special Edition": {
+        "name": "Special Edition",
+        "character_url": "https://starwars.fandom.com/wiki/The_Star_Wars_Trilogy_Special_Edition",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "LIN-V8K": {
+        "name": "LIN-V8K",
+        "character_url": "https://starwars.fandom.com/wiki/LIN-V8K",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "MSE-6-G735Y": {
+        "name": "MSE-6-G735Y",
+        "character_url": "https://starwars.fandom.com/wiki/MSE-6-G735Y",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "P2 (prototype astromech droid)": {
+        "name": "P2 (prototype astromech droid)",
+        "character_url": "https://starwars.fandom.com/wiki/P2_(prototype_astromech_droid)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "R1-G4": {
+        "name": "R1-G4",
+        "character_url": "https://starwars.fandom.com/wiki/R1-G4",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "R2-A3": {
+        "name": "R2-A3",
+        "character_url": "https://starwars.fandom.com/wiki/R2-A3",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "R2-A5": {
+        "name": "R2-A5",
+        "character_url": "https://starwars.fandom.com/wiki/R2-A5",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "R2-BHD": {
+        "name": "R2-BHD",
+        "character_url": "https://starwars.fandom.com/wiki/R2-BHD",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "R2-F2": {
+        "name": "R2-F2",
+        "character_url": "https://starwars.fandom.com/wiki/R2-F2",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "R2-Q2": {
+        "name": "R2-Q2",
+        "character_url": "https://starwars.fandom.com/wiki/R2-Q2",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "R2-X2": {
+        "name": "R2-X2",
+        "character_url": "https://starwars.fandom.com/wiki/R2-X2",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "R3-M3": {
+        "name": "R3-M3",
+        "character_url": "https://starwars.fandom.com/wiki/R3-M3",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "R3-T2": {
+        "name": "R3-T2",
+        "character_url": "https://starwars.fandom.com/wiki/R3-T2",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "R3-T6": {
+        "name": "R3-T6",
+        "character_url": "https://starwars.fandom.com/wiki/R3-T6",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "R4-D6": {
+        "name": "R4-D6",
+        "character_url": "https://starwars.fandom.com/wiki/R4-D6",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "R4-E1": {
+        "name": "R4-E1",
+        "character_url": "https://starwars.fandom.com/wiki/R4-E1",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "R4-I9": {
+        "name": "R4-I9",
+        "character_url": "https://starwars.fandom.com/wiki/R4-I9",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "R4-M9": {
+        "name": "R4-M9",
+        "character_url": "https://starwars.fandom.com/wiki/R4-M9",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "R5-A2": {
+        "name": "R5-A2",
+        "character_url": "https://starwars.fandom.com/wiki/R5-A2",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "R5-D8": {
+        "name": "R5-D8",
+        "character_url": "https://starwars.fandom.com/wiki/R5-D8",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "R5-K6": {
+        "name": "R5-K6",
+        "character_url": "https://starwars.fandom.com/wiki/R5-K6",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "1997": {
+        "name": "1997",
+        "character_url": "https://starwars.fandom.com/wiki/1997",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "Tank": {
+        "name": "Tank",
+        "character_url": "https://starwars.fandom.com/wiki/Tank_(individual)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "Toos": {
+        "name": "Toos",
+        "character_url": "https://starwars.fandom.com/wiki/Toos",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "U-3PO": {
+        "name": "U-3PO",
+        "character_url": "https://starwars.fandom.com/wiki/U-3PO",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "WED-15-ST68": {
+        "name": "WED-15-ST68",
+        "character_url": "https://starwars.fandom.com/wiki/WED-15-ST68",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope"
+        ]
+    },
+    "2-1B": {
+        "name": "2-1B",
+        "character_url": "https://starwars.fandom.com/wiki/2-1B",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "4-LOM": {
+        "name": "4-LOM",
+        "character_url": "https://starwars.fandom.com/wiki/4-LOM",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back"
+        ]
+    },
+    "E-3PO": {
+        "name": "E-3PO",
+        "character_url": "https://starwars.fandom.com/wiki/E-3PO_(Bespin)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back"
+        ]
+    },
+    "FX-7": {
+        "name": "FX-7",
+        "character_url": "https://starwars.fandom.com/wiki/FX-7",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "IG-88B": {
+        "name": "IG-88B",
+        "character_url": "https://starwars.fandom.com/wiki/IG-88B",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back"
+        ]
+    },
+    "K-3PO": {
+        "name": "K-3PO",
+        "character_url": "https://starwars.fandom.com/wiki/K-3PO",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back"
+        ]
+    },
+    "L3-37": {
+        "name": "L3-37",
+        "character_url": "https://starwars.fandom.com/wiki/L3-37",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back",
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "Nevar": {
+        "name": "Nevar",
+        "character_url": "https://starwars.fandom.com/wiki/Nevar",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back"
+        ]
+    },
+    "Kesin Ommis": {
+        "name": "Kesin Ommis",
+        "character_url": "https://starwars.fandom.com/wiki/Kesin_Ommis",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back"
+        ]
+    },
+    "R-3PO": {
+        "name": "R-3PO",
+        "character_url": "https://starwars.fandom.com/wiki/R-3PO",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back"
+        ]
+    },
+    "R3-A2": {
+        "name": "R3-A2",
+        "character_url": "https://starwars.fandom.com/wiki/R3-A2",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back"
+        ]
+    },
+    "R3-Y2": {
+        "name": "R3-Y2",
+        "character_url": "https://starwars.fandom.com/wiki/R3-Y2",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back"
+        ]
+    },
+    "R5-M2": {
+        "name": "R5-M2",
+        "character_url": "https://starwars.fandom.com/wiki/R5-M2",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back"
+        ]
+    },
+    "Skorr": {
+        "name": "Skorr",
+        "character_url": "https://starwars.fandom.com/wiki/Skorr",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back"
+        ]
+    },
+    "Treadwell": {
+        "name": "Treadwell",
+        "character_url": "https://starwars.fandom.com/wiki/Treadwell",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back"
+        ]
+    },
+    "XJ9-CS14": {
+        "name": "XJ9-CS14",
+        "character_url": "https://starwars.fandom.com/wiki/XJ9-CS14",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back"
+        ]
+    },
+    "8D8": {
+        "name": "8D8",
+        "character_url": "https://starwars.fandom.com/wiki/8D8",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "Arfit": {
+        "name": "Arfit",
+        "character_url": "https://starwars.fandom.com/wiki/Arfit",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "AV-6R7": {
+        "name": "AV-6R7",
+        "character_url": "https://starwars.fandom.com/wiki/AV-6R7",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "BG-J38": {
+        "name": "BG-J38",
+        "character_url": "https://starwars.fandom.com/wiki/BG-J38",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "Eightyem": {
+        "name": "Eightyem",
+        "character_url": "https://starwars.fandom.com/wiki/80-M",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "Errin": {
+        "name": "Errin",
+        "character_url": "https://starwars.fandom.com/wiki/Errin",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "EV-9D9": {
+        "name": "EV-9D9",
+        "character_url": "https://starwars.fandom.com/wiki/EV-9D9",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "Bidlo Kwerve": {
+        "name": "Bidlo Kwerve",
+        "character_url": "https://starwars.fandom.com/wiki/Bidlo_Kwerve",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "Bane Malar": {
+        "name": "Bane Malar",
+        "character_url": "https://starwars.fandom.com/wiki/Bane_Malar",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "Nackt": {
+        "name": "Nackt",
+        "character_url": "https://starwars.fandom.com/wiki/Nackt",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "R2-Q5": {
+        "name": "R2-Q5",
+        "character_url": "https://starwars.fandom.com/wiki/R2-Q5",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "R2-S4M": {
+        "name": "R2-S4M",
+        "character_url": "https://starwars.fandom.com/wiki/R2-S4M",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "R5-G19": {
+        "name": "R5-G19",
+        "character_url": "https://starwars.fandom.com/wiki/R5-G19",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "R5-J2": {
+        "name": "R5-J2",
+        "character_url": "https://starwars.fandom.com/wiki/R5-J2",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "Brock Starsher": {
+        "name": "Brock Starsher",
+        "character_url": "https://starwars.fandom.com/wiki/Brock_Starsher",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi"
+        ]
+    },
+    "4B-EG-6": {
+        "name": "4B-EG-6",
+        "character_url": "https://starwars.fandom.com/wiki/4B-EG-6",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "Allium": {
+        "name": "Allium",
+        "character_url": "https://starwars.fandom.com/wiki/Allium",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "B-U4D": {
+        "name": "B-U4D",
+        "character_url": "https://starwars.fandom.com/wiki/B-U4D",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "BB-8": {
+        "name": "BB-8",
+        "character_url": "https://starwars.fandom.com/wiki/BB-8",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "Sara Bel-Sun": {
+        "name": "Sara Bel-Sun",
+        "character_url": "https://starwars.fandom.com/wiki/Sara_Bel-Sun",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "BR-BA": {
+        "name": "BR-BA",
+        "character_url": "https://starwars.fandom.com/wiki/BR-BA",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "EGL-21": {
+        "name": "EGL-21",
+        "character_url": "https://starwars.fandom.com/wiki/EGL-21",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "Furillo": {
+        "name": "Furillo",
+        "character_url": "https://starwars.fandom.com/wiki/Furillo",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "GA-97": {
+        "name": "GA-97",
+        "character_url": "https://starwars.fandom.com/wiki/GA-97",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "GTAW-74": {
+        "name": "GTAW-74",
+        "character_url": "https://starwars.fandom.com/wiki/GTAW-74",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "Hal": {
+        "name": "Hal",
+        "character_url": "https://starwars.fandom.com/wiki/Hal_(Imperial_officer)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "HURID-327": {
+        "name": "HURID-327",
+        "character_url": "https://starwars.fandom.com/wiki/HURID-327",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "Toursant Irving": {
+        "name": "Toursant Irving",
+        "character_url": "https://starwars.fandom.com/wiki/Toursant_Irving",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "Vanver Irving": {
+        "name": "Vanver Irving",
+        "character_url": "https://starwars.fandom.com/wiki/Vanver_Irving",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "IT-000-XZ 1594": {
+        "name": "IT-000-XZ 1594",
+        "character_url": "https://starwars.fandom.com/wiki/IT-000-XZ_1594",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "KT-310": {
+        "name": "KT-310",
+        "character_url": "https://starwars.fandom.com/wiki/KT-310",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "Cherff Maota": {
+        "name": "Cherff Maota",
+        "character_url": "https://starwars.fandom.com/wiki/Cherff_Maota",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "Davan Marak": {
+        "name": "Davan Marak",
+        "character_url": "https://starwars.fandom.com/wiki/Davan_Marak",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "M6-15R": {
+        "name": "M6-15R",
+        "character_url": "https://starwars.fandom.com/wiki/M6-15R",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "M9-G8": {
+        "name": "M9-G8",
+        "character_url": "https://starwars.fandom.com/wiki/M9-G8",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "ME-8D9": {
+        "name": "ME-8D9",
+        "character_url": "https://starwars.fandom.com/wiki/ME-8D9",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "0-MR1": {
+        "name": "0-MR1",
+        "character_url": "https://starwars.fandom.com/wiki/0-MR1",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "P4-99": {
+        "name": "P4-99",
+        "character_url": "https://starwars.fandom.com/wiki/P4-99",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "Clyss Power": {
+        "name": "Clyss Power",
+        "character_url": "https://starwars.fandom.com/wiki/Clyss_Power",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "Grevoth Prana IX": {
+        "name": "Grevoth Prana IX",
+        "character_url": "https://starwars.fandom.com/wiki/Grevoth_Prana_IX",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "PZ-4CO": {
+        "name": "PZ-4CO",
+        "character_url": "https://starwars.fandom.com/wiki/PZ-4CO",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "R-3DO": {
+        "name": "R-3DO",
+        "character_url": "https://starwars.fandom.com/wiki/R-3DO",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "R0-4L0": {
+        "name": "R0-4L0",
+        "character_url": "https://starwars.fandom.com/wiki/R0-4L0",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "R0-H2": {
+        "name": "R0-H2",
+        "character_url": "https://starwars.fandom.com/wiki/R0-H2",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "R2-KT": {
+        "name": "R2-KT",
+        "character_url": "https://starwars.fandom.com/wiki/R2-KT",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens",
+            "https://starwars.fandom.com/wiki/Jedi_Crash",
+            "https://starwars.fandom.com/wiki/Storm_Over_Ryloth",
+            "https://starwars.fandom.com/wiki/Clone_Cadets"
+        ]
+    },
+    "R5-X3": {
+        "name": "R5-X3",
+        "character_url": "https://starwars.fandom.com/wiki/R5-X3",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "R6-D8": {
+        "name": "R6-D8",
+        "character_url": "https://starwars.fandom.com/wiki/R6-D8",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "Dosmit Ræh": {
+        "name": "Dosmit Ræh",
+        "character_url": "https://starwars.fandom.com/wiki/Dosmit_R%C3%A6h",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "aurebesh": {
+        "name": "aurebesh",
+        "character_url": "https://starwars.fandom.com/wiki/Aurebesh",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "RP-G0": {
+        "name": "RP-G0",
+        "character_url": "https://starwars.fandom.com/wiki/RP-G0",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "V8-R": {
+        "name": "V8-R",
+        "character_url": "https://starwars.fandom.com/wiki/V8-R",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "Pallaris Ven": {
+        "name": "Pallaris Ven",
+        "character_url": "https://starwars.fandom.com/wiki/Pallaris_Ven",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "Venalo Wintz": {
+        "name": "Venalo Wintz",
+        "character_url": "https://starwars.fandom.com/wiki/Venalo_Wintz",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "XA-LX": {
+        "name": "XA-LX",
+        "character_url": "https://starwars.fandom.com/wiki/XA-LX",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VII_The_Force_Awakens"
+        ]
+    },
+    "2BB-2": {
+        "name": "2BB-2",
+        "character_url": "https://starwars.fandom.com/wiki/2BB-2",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "canonical": {
+        "name": "canonical",
+        "character_url": "https://starwars.fandom.com/wiki/Canon",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi",
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "Guswan Askreeth": {
+        "name": "Guswan Askreeth",
+        "character_url": "https://starwars.fandom.com/wiki/Guswan_Askreeth",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "BB-4": {
+        "name": "BB-4",
+        "character_url": "https://starwars.fandom.com/wiki/BB-4",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "BB-9E": {
+        "name": "BB-9E",
+        "character_url": "https://starwars.fandom.com/wiki/BB-9E",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "Korfé Bennux-Ai": {
+        "name": "Korfé Bennux-Ai",
+        "character_url": "https://starwars.fandom.com/wiki/Korf%C3%A9_Bennux-Ai",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "Trypto Buball": {
+        "name": "Trypto Buball",
+        "character_url": "https://starwars.fandom.com/wiki/Trypto_Buball",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "Dillon": {
+        "name": "Dillon",
+        "character_url": "https://starwars.fandom.com/wiki/Dillon",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "Ubialla Gheal": {
+        "name": "Ubialla Gheal",
+        "character_url": "https://starwars.fandom.com/wiki/Ubialla_Gheal",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "Armitage Hux's mother": {
+        "name": "Armitage Hux's mother",
+        "character_url": "https://starwars.fandom.com/wiki/Armitage_Hux%27s_mother",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "Pinrado Noza": {
+        "name": "Pinrado Noza",
+        "character_url": "https://starwars.fandom.com/wiki/Pinrado_Noza",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "Brun Obatsun": {
+        "name": "Brun Obatsun",
+        "character_url": "https://starwars.fandom.com/wiki/Brun_Obatsun",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "Letrun Pay": {
+        "name": "Letrun Pay",
+        "character_url": "https://starwars.fandom.com/wiki/Letrun_Pay",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "Phi": {
+        "name": "Phi",
+        "character_url": "https://starwars.fandom.com/wiki/Phi",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "R4-X2": {
+        "name": "R4-X2",
+        "character_url": "https://starwars.fandom.com/wiki/R4-X2",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "Centada Ressad": {
+        "name": "Centada Ressad",
+        "character_url": "https://starwars.fandom.com/wiki/Centada_Ressad",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "Ro": {
+        "name": "Ro",
+        "character_url": "https://starwars.fandom.com/wiki/Ro",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "Loatha Sommover": {
+        "name": "Loatha Sommover",
+        "character_url": "https://starwars.fandom.com/wiki/Loatha_Sommover",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "Spennie": {
+        "name": "Spennie",
+        "character_url": "https://starwars.fandom.com/wiki/Spennie",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "Stella": {
+        "name": "Stella",
+        "character_url": "https://starwars.fandom.com/wiki/Stella",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "Ted": {
+        "name": "Ted",
+        "character_url": "https://starwars.fandom.com/wiki/Ted",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "Vylla Tendeil": {
+        "name": "Vylla Tendeil",
+        "character_url": "https://starwars.fandom.com/wiki/Vylla_Tendeil",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "Y5-X2": {
+        "name": "Y5-X2",
+        "character_url": "https://starwars.fandom.com/wiki/Y5-X2",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_VIII_The_Last_Jedi"
+        ]
+    },
+    "AD-4M": {
+        "name": "AD-4M",
+        "character_url": "https://starwars.fandom.com/wiki/AD-4M",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "AL1-L3": {
+        "name": "AL1-L3",
+        "character_url": "https://starwars.fandom.com/wiki/AL1-L3",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "Alpha Three": {
+        "name": "Alpha Three",
+        "character_url": "https://starwars.fandom.com/wiki/Alpha_Three_(Exegol)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "BFB-7": {
+        "name": "BFB-7",
+        "character_url": "https://starwars.fandom.com/wiki/BFB-7",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "Kadara Calrissian": {
+        "name": "Kadara Calrissian",
+        "character_url": "https://starwars.fandom.com/wiki/Kadara_Calrissian",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "D-O": {
+        "name": "D-O",
+        "character_url": "https://starwars.fandom.com/wiki/D-O",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "Delta Leader": {
+        "name": "Delta Leader",
+        "character_url": "https://starwars.fandom.com/wiki/Delta_Leader_(Exegol)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "Efrem LX": {
+        "name": "Efrem LX",
+        "character_url": "https://starwars.fandom.com/wiki/Efrem_LX",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "K3-R1": {
+        "name": "K3-R1",
+        "character_url": "https://starwars.fandom.com/wiki/K3-R1",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "L4E-R5": {
+        "name": "L4E-R5",
+        "character_url": "https://starwars.fandom.com/wiki/L4E-R5",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "Lazu Lirona": {
+        "name": "Lazu Lirona",
+        "character_url": "https://starwars.fandom.com/wiki/Lazu_Lirona",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "Domine Lithe": {
+        "name": "Domine Lithe",
+        "character_url": "https://starwars.fandom.com/wiki/Domine_Lithe",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "OC-JK14": {
+        "name": "OC-JK14",
+        "character_url": "https://starwars.fandom.com/wiki/OC-JK14",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "R2-SHP": {
+        "name": "R2-SHP",
+        "character_url": "https://starwars.fandom.com/wiki/R2-SHP",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "R5-2JE": {
+        "name": "R5-2JE",
+        "character_url": "https://starwars.fandom.com/wiki/R5-2JE",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "R6-LE5": {
+        "name": "R6-LE5",
+        "character_url": "https://starwars.fandom.com/wiki/R6-LE5",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "TQ3-R1": {
+        "name": "TQ3-R1",
+        "character_url": "https://starwars.fandom.com/wiki/TQ3-R1",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "Vibbo": {
+        "name": "Vibbo",
+        "character_url": "https://starwars.fandom.com/wiki/Vibbo",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "Vicii": {
+        "name": "Vicii",
+        "character_url": "https://starwars.fandom.com/wiki/Vicii",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IX_The_Rise_of_Skywalker"
+        ]
+    },
+    "4D6-J-A7": {
+        "name": "4D6-J-A7",
+        "character_url": "https://starwars.fandom.com/wiki/4D6-J-A7",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "9-EZ": {
+        "name": "9-EZ",
+        "character_url": "https://starwars.fandom.com/wiki/9-EZ",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "C1-10P": {
+        "name": "C1-10P",
+        "character_url": "https://starwars.fandom.com/wiki/C1-10P",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "C2-B5": {
+        "name": "C2-B5",
+        "character_url": "https://starwars.fandom.com/wiki/C2-B5",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "Riss Clyos": {
+        "name": "Riss Clyos",
+        "character_url": "https://starwars.fandom.com/wiki/Riss_Clyos",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "Datchi Creel": {
+        "name": "Datchi Creel",
+        "character_url": "https://starwars.fandom.com/wiki/Datchi_Creel",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "D4-R4B": {
+        "name": "D4-R4B",
+        "character_url": "https://starwars.fandom.com/wiki/D4-R4B",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "Robich Duggsin": {
+        "name": "Robich Duggsin",
+        "character_url": "https://starwars.fandom.com/wiki/Robich_Duggsin",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "Essie": {
+        "name": "Essie",
+        "character_url": "https://starwars.fandom.com/wiki/Essie",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "G2-1B7": {
+        "name": "G2-1B7",
+        "character_url": "https://starwars.fandom.com/wiki/G2-1B7",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "K-2SO": {
+        "name": "K-2SO",
+        "character_url": "https://starwars.fandom.com/wiki/K-2SO",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "KMD-RA-71": {
+        "name": "KMD-RA-71",
+        "character_url": "https://starwars.fandom.com/wiki/KMD-RA-71",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "K-OHN": {
+        "name": "K-OHN",
+        "character_url": "https://starwars.fandom.com/wiki/K-OHN",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "LU-28": {
+        "name": "LU-28",
+        "character_url": "https://starwars.fandom.com/wiki/LU-28",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "Brace Marko": {
+        "name": "Brace Marko",
+        "character_url": "https://starwars.fandom.com/wiki/Brace_Marko",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "Star Wars: Rogue One: A Junior Novel": {
+        "name": "Star Wars: Rogue One: A Junior Novel",
+        "character_url": "https://starwars.fandom.com/wiki/Star_Wars:_Rogue_One:_A_Junior_Novel",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "Rogue One: A Star Wars Story novelization": {
+        "name": "Rogue One: A Star Wars Story novelization",
+        "character_url": "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story_(novelization)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "Lucky Hazz Obloobitt": {
+        "name": "Lucky Hazz Obloobitt",
+        "character_url": "https://starwars.fandom.com/wiki/Lucky_Hazz_Obloobitt",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "R2-SHW": {
+        "name": "R2-SHW",
+        "character_url": "https://starwars.fandom.com/wiki/R2-SHW",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "R3-M2": {
+        "name": "R3-M2",
+        "character_url": "https://starwars.fandom.com/wiki/R3-M2",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "R3-S1": {
+        "name": "R3-S1",
+        "character_url": "https://starwars.fandom.com/wiki/R3-S1",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "R5-SK1": {
+        "name": "R5-SK1",
+        "character_url": "https://starwars.fandom.com/wiki/R5-SK1",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "Namen Takamen": {
+        "name": "Namen Takamen",
+        "character_url": "https://starwars.fandom.com/wiki/Namen_Takamen",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "Nesta Term": {
+        "name": "Nesta Term",
+        "character_url": "https://starwars.fandom.com/wiki/Nesta_Term",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "Tivik's sister": {
+        "name": "Tivik's sister",
+        "character_url": "https://starwars.fandom.com/wiki/Tivik%27s_sister",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "Gazdo Woolcob": {
+        "name": "Gazdo Woolcob",
+        "character_url": "https://starwars.fandom.com/wiki/Gazdo_Woolcob",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "XX-25900": {
+        "name": "XX-25900",
+        "character_url": "https://starwars.fandom.com/wiki/XX-25900",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ]
+    },
+    "1MSE-KUP24": {
+        "name": "1MSE-KUP24",
+        "character_url": "https://starwars.fandom.com/wiki/1MSE-KUP24",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "DD-BD": {
+        "name": "DD-BD",
+        "character_url": "https://starwars.fandom.com/wiki/DD-BD",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "B8G-H0R": {
+        "name": "B8G-H0R",
+        "character_url": "https://starwars.fandom.com/wiki/B8G-H0R",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "C26-T": {
+        "name": "C26-T",
+        "character_url": "https://starwars.fandom.com/wiki/C26-T",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "Landonis Balthazar Calrissian's father": {
+        "name": "Landonis Balthazar Calrissian's father",
+        "character_url": "https://starwars.fandom.com/wiki/Landonis_Balthazar_Calrissian%27s_father",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "canonically": {
+        "name": "canonically",
+        "character_url": "https://starwars.fandom.com/wiki/Canon",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "Landonis Balthazar Calrissian's mother": {
+        "name": "Landonis Balthazar Calrissian's mother",
+        "character_url": "https://starwars.fandom.com/wiki/Landonis_Balthazar_Calrissian%27s_mother",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "CC-4M": {
+        "name": "CC-4M",
+        "character_url": "https://starwars.fandom.com/wiki/CC-4M",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "CM-3XB": {
+        "name": "CM-3XB",
+        "character_url": "https://starwars.fandom.com/wiki/CM-3XB",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "Contispex I": {
+        "name": "Contispex I",
+        "character_url": "https://starwars.fandom.com/wiki/Contispex_I",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "C00-L05C": {
+        "name": "C00-L05C",
+        "character_url": "https://starwars.fandom.com/wiki/C00-L05C",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "DA1-4XB": {
+        "name": "DA1-4XB",
+        "character_url": "https://starwars.fandom.com/wiki/DA1-4XB",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "DV-4D4": {
+        "name": "DV-4D4",
+        "character_url": "https://starwars.fandom.com/wiki/DV-4D4",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "FD3-MN": {
+        "name": "FD3-MN",
+        "character_url": "https://starwars.fandom.com/wiki/FD3-MN",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "GB-BD": {
+        "name": "GB-BD",
+        "character_url": "https://starwars.fandom.com/wiki/GB-BD",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "GL-0T15": {
+        "name": "GL-0T15",
+        "character_url": "https://starwars.fandom.com/wiki/GL-0T15",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "GM12-L1": {
+        "name": "GM12-L1",
+        "character_url": "https://starwars.fandom.com/wiki/GM12-L1",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "GOUD-4": {
+        "name": "GOUD-4",
+        "character_url": "https://starwars.fandom.com/wiki/GOUD-4",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "HT-IN-4": {
+        "name": "HT-IN-4",
+        "character_url": "https://starwars.fandom.com/wiki/HT-IN-4",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "Saucer Head": {
+        "name": "Saucer Head",
+        "character_url": "https://starwars.fandom.com/wiki/Saucer_Head",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "J3-55": {
+        "name": "J3-55",
+        "character_url": "https://starwars.fandom.com/wiki/J3-55",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "JBLX-24": {
+        "name": "JBLX-24",
+        "character_url": "https://starwars.fandom.com/wiki/JBLX-24",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "JV-P12": {
+        "name": "JV-P12",
+        "character_url": "https://starwars.fandom.com/wiki/JV-P12",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "Kilmo": {
+        "name": "Kilmo",
+        "character_url": "https://starwars.fandom.com/wiki/Kilmo",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "KR2-M80": {
+        "name": "KR2-M80",
+        "character_url": "https://starwars.fandom.com/wiki/KR2-M80",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "Exar Kun": {
+        "name": "Exar Kun",
+        "character_url": "https://starwars.fandom.com/wiki/Exar_Kun",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "Gafferky Lenzwin": {
+        "name": "Gafferky Lenzwin",
+        "character_url": "https://starwars.fandom.com/wiki/Gafferky_Lenzwin",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "Yorsh Manted": {
+        "name": "Yorsh Manted",
+        "character_url": "https://starwars.fandom.com/wiki/Yorsh_Manted",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "MK5-L1": {
+        "name": "MK5-L1",
+        "character_url": "https://starwars.fandom.com/wiki/MK5-L1",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "MPH-11": {
+        "name": "MPH-11",
+        "character_url": "https://starwars.fandom.com/wiki/MPH-11",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "Odeffro Msern": {
+        "name": "Odeffro Msern",
+        "character_url": "https://starwars.fandom.com/wiki/Odeffro_Msern",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "Needles": {
+        "name": "Needles",
+        "character_url": "https://starwars.fandom.com/wiki/Needles",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "Enfys Nest's mother": {
+        "name": "Enfys Nest's mother",
+        "character_url": "https://starwars.fandom.com/wiki/Enfys_Nest%27s_mother",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "NP-G1": {
+        "name": "NP-G1",
+        "character_url": "https://starwars.fandom.com/wiki/NP-G1",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "P0-03": {
+        "name": "P0-03",
+        "character_url": "https://starwars.fandom.com/wiki/P0-03",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "P1-SZE": {
+        "name": "P1-SZE",
+        "character_url": "https://starwars.fandom.com/wiki/P1-SZE",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "P4T-GM": {
+        "name": "P4T-GM",
+        "character_url": "https://starwars.fandom.com/wiki/P4T-GM",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "P6B-LT2": {
+        "name": "P6B-LT2",
+        "character_url": "https://starwars.fandom.com/wiki/P6B-LT2",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "PA-LT4": {
+        "name": "PA-LT4",
+        "character_url": "https://starwars.fandom.com/wiki/PA-LT4",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "Baroosh Pawk": {
+        "name": "Baroosh Pawk",
+        "character_url": "https://starwars.fandom.com/wiki/Baroosh_Pawk",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "Edjian Prince": {
+        "name": "Edjian Prince",
+        "character_url": "https://starwars.fandom.com/wiki/Edjian_Prince",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "R2-F1P": {
+        "name": "R2-F1P",
+        "character_url": "https://starwars.fandom.com/wiki/R2-F1P",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "R2-S8": {
+        "name": "R2-S8",
+        "character_url": "https://starwars.fandom.com/wiki/R2-S8",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "R5-232": {
+        "name": "R5-232",
+        "character_url": "https://starwars.fandom.com/wiki/R5-232",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "R5-PHT": {
+        "name": "R5-PHT",
+        "character_url": "https://starwars.fandom.com/wiki/R5-PHT",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "S1D6-SA-5": {
+        "name": "S1D6-SA-5",
+        "character_url": "https://starwars.fandom.com/wiki/S1D6-SA-5",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "T1M8-LT2": {
+        "name": "T1M8-LT2",
+        "character_url": "https://starwars.fandom.com/wiki/T1M8-LT2",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "W1-EG5": {
+        "name": "W1-EG5",
+        "character_url": "https://starwars.fandom.com/wiki/W1-EG5",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "WED-021": {
+        "name": "WED-021",
+        "character_url": "https://starwars.fandom.com/wiki/WED-021",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "WG-22": {
+        "name": "WG-22",
+        "character_url": "https://starwars.fandom.com/wiki/WG-22",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story"
+        ]
+    },
+    "224": {
+        "name": "224",
+        "character_url": "https://starwars.fandom.com/wiki/224",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Ambush"
+        ]
+    },
+    "retcon": {
+        "name": "retcon",
+        "character_url": "https://starwars.fandom.com/wiki/Retroactive_continuity",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Ambush"
+        ]
+    },
+    "hologram": {
+        "name": "hologram",
+        "character_url": "https://starwars.fandom.com/wiki/Hologram",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Ambush",
+            "https://starwars.fandom.com/wiki/Mystery_of_a_Thousand_Moons",
+            "https://starwars.fandom.com/wiki/Mystery_of_a_Thousand_Moons",
+            "https://starwars.fandom.com/wiki/Overlords",
+            "https://starwars.fandom.com/wiki/Overlords",
+            "https://starwars.fandom.com/wiki/Revival_(episode)",
+            "https://starwars.fandom.com/wiki/Secret_Weapons",
+            "https://starwars.fandom.com/wiki/Secret_Weapons",
+            "https://starwars.fandom.com/wiki/Secret_Weapons",
+            "https://starwars.fandom.com/wiki/Secret_Weapons",
+            "https://starwars.fandom.com/wiki/Secret_Weapons",
+            "https://starwars.fandom.com/wiki/To_Catch_a_Jedi",
+            "https://starwars.fandom.com/wiki/Voices"
+        ]
+    },
+    "DVD": {
+        "name": "DVD",
+        "character_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_The_Complete_Season_One",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rising_Malevolence",
+            "https://starwars.fandom.com/wiki/Rising_Malevolence"
         ]
     },
     "TB-2": {
@@ -84,7 +2565,507 @@
         "character_url": "https://starwars.fandom.com/wiki/TB-2",
         "species": "Unknown",
         "appearances": [
-            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+            "https://starwars.fandom.com/wiki/Rising_Malevolence",
+            "https://starwars.fandom.com/wiki/Storm_Over_Ryloth"
+        ]
+    },
+    "R2-J8": {
+        "name": "R2-J8",
+        "character_url": "https://starwars.fandom.com/wiki/R2-J8",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Shadow_of_Malevolence"
+        ]
+    },
+    "R2-Y9": {
+        "name": "R2-Y9",
+        "character_url": "https://starwars.fandom.com/wiki/R2-Y9",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Shadow_of_Malevolence"
+        ]
+    },
+    "R5-U8": {
+        "name": "R5-U8",
+        "character_url": "https://starwars.fandom.com/wiki/R5-U8",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Shadow_of_Malevolence"
+        ]
+    },
+    "R7-D4": {
+        "name": "R7-D4",
+        "character_url": "https://starwars.fandom.com/wiki/R7-D4",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Shadow_of_Malevolence",
+            "https://starwars.fandom.com/wiki/Destroy_Malevolence",
+            "https://starwars.fandom.com/wiki/Holocron_Heist",
+            "https://starwars.fandom.com/wiki/R2_Come_Home",
+            "https://starwars.fandom.com/wiki/Padawan_Lost",
+            "https://starwars.fandom.com/wiki/Escape_from_Kadavo"
+        ]
+    },
+    "Shadow Three": {
+        "name": "Shadow Three",
+        "character_url": "https://starwars.fandom.com/wiki/Shadow_Three",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Shadow_of_Malevolence"
+        ]
+    },
+    "08": {
+        "name": "08",
+        "character_url": "https://starwars.fandom.com/wiki/08",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rookies"
+        ]
+    },
+    "09": {
+        "name": "09",
+        "character_url": "https://starwars.fandom.com/wiki/09",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rookies"
+        ]
+    },
+    "Hologram VJ": {
+        "name": "Hologram VJ",
+        "character_url": "https://starwars.fandom.com/wiki/Hologram_VJ",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rookies"
+        ]
+    },
+    "Sparky": {
+        "name": "Sparky",
+        "character_url": "https://starwars.fandom.com/wiki/Sparky",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rookies"
+        ]
+    },
+    "Unit 07": {
+        "name": "Unit 07",
+        "character_url": "https://starwars.fandom.com/wiki/07",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rookies"
+        ]
+    },
+    "Unit 26": {
+        "name": "Unit 26",
+        "character_url": "https://starwars.fandom.com/wiki/Unit_26",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Rookies"
+        ]
+    },
+    "R3-S6": {
+        "name": "R3-S6",
+        "character_url": "https://starwars.fandom.com/wiki/R3-S6",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Downfall_of_a_Droid",
+            "https://starwars.fandom.com/wiki/Duel_of_the_Droids"
+        ]
+    },
+    "327-T": {
+        "name": "327-T",
+        "character_url": "https://starwars.fandom.com/wiki/327-T",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Cloak_of_Darkness"
+        ]
+    },
+    "EV-A4-D": {
+        "name": "EV-A4-D",
+        "character_url": "https://starwars.fandom.com/wiki/EV-A4-D",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Lair_of_Grievous"
+        ]
+    },
+    "Neebo": {
+        "name": "Neebo",
+        "character_url": "https://starwars.fandom.com/wiki/Neebo",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Lair_of_Grievous"
+        ]
+    },
+    "R6-H5": {
+        "name": "R6-H5",
+        "character_url": "https://starwars.fandom.com/wiki/R6-H5",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Lair_of_Grievous",
+            "https://starwars.fandom.com/wiki/Citadel_Rescue"
+        ]
+    },
+    "4A-2R": {
+        "name": "4A-2R",
+        "character_url": "https://starwars.fandom.com/wiki/4A-2R",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Dooku_Captured",
+            "https://starwars.fandom.com/wiki/Lethal_Trackdown"
+        ]
+    },
+    "R5-P8": {
+        "name": "R5-P8",
+        "character_url": "https://starwars.fandom.com/wiki/R5-P8",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Gungan_General",
+            "https://starwars.fandom.com/wiki/Lethal_Trackdown",
+            "https://starwars.fandom.com/wiki/Revenge_(episode)",
+            "https://starwars.fandom.com/wiki/Bound_for_Rescue"
+        ]
+    },
+    "TF-1726": {
+        "name": "TF-1726",
+        "character_url": "https://starwars.fandom.com/wiki/TF-1726",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Jedi_Crash"
+        ]
+    },
+    "4724": {
+        "name": "4724",
+        "character_url": "https://starwars.fandom.com/wiki/4724",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Defenders_of_Peace"
+        ]
+    },
+    "685": {
+        "name": "685",
+        "character_url": "https://starwars.fandom.com/wiki/685",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Trespass"
+        ]
+    },
+    "TJ-55": {
+        "name": "TJ-55",
+        "character_url": "https://starwars.fandom.com/wiki/TJ-55",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Hidden_Enemy"
+        ]
+    },
+    "LEP-86C8": {
+        "name": "LEP-86C8",
+        "character_url": "https://starwars.fandom.com/wiki/LEP-86C8",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Blue_Shadow_Virus_(episode)",
+            "https://starwars.fandom.com/wiki/Mystery_of_a_Thousand_Moons"
+        ]
+    },
+    "TR-350": {
+        "name": "TR-350",
+        "character_url": "https://starwars.fandom.com/wiki/TR-350",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Blue_Shadow_Virus_(episode)"
+        ]
+    },
+    "R7-A7": {
+        "name": "R7-A7",
+        "character_url": "https://starwars.fandom.com/wiki/R7-A7",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Storm_Over_Ryloth",
+            "https://starwars.fandom.com/wiki/Innocents_of_Ryloth",
+            "https://starwars.fandom.com/wiki/Liberty_on_Ryloth",
+            "https://starwars.fandom.com/wiki/Clone_Cadets",
+            "https://starwars.fandom.com/wiki/Darkness_on_Umbara",
+            "https://starwars.fandom.com/wiki/Sabotage_(episode)",
+            "https://starwars.fandom.com/wiki/The_Jedi_Who_Knew_Too_Much",
+            "https://starwars.fandom.com/wiki/Shattered",
+            "https://starwars.fandom.com/wiki/Victory_and_Death"
+        ]
+    },
+    "Numa's father": {
+        "name": "Numa's father",
+        "character_url": "https://starwars.fandom.com/wiki/Numa%27s_father",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Innocents_of_Ryloth"
+        ]
+    },
+    "Numa's mother": {
+        "name": "Numa's mother",
+        "character_url": "https://starwars.fandom.com/wiki/Numa%27s_mother",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Innocents_of_Ryloth"
+        ]
+    },
+    "TX-20": {
+        "name": "TX-20",
+        "character_url": "https://starwars.fandom.com/wiki/TX-20",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Innocents_of_Ryloth"
+        ]
+    },
+    "RB-551": {
+        "name": "RB-551",
+        "character_url": "https://starwars.fandom.com/wiki/RB-551",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Liberty_on_Ryloth"
+        ]
+    },
+    "TA-175": {
+        "name": "TA-175",
+        "character_url": "https://starwars.fandom.com/wiki/TA-175",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Liberty_on_Ryloth"
+        ]
+    },
+    "HELIOS-3D": {
+        "name": "HELIOS-3D",
+        "character_url": "https://starwars.fandom.com/wiki/HELIOS-3D",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Hostage_Crisis",
+            "https://starwars.fandom.com/wiki/Hunt_for_Ziro",
+            "https://starwars.fandom.com/wiki/Dangerous_Debt"
+        ]
+    },
+    "HELIOS-3E": {
+        "name": "HELIOS-3E",
+        "character_url": "https://starwars.fandom.com/wiki/HELIOS-3E",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Hostage_Crisis",
+            "https://starwars.fandom.com/wiki/Evil_Plans",
+            "https://starwars.fandom.com/wiki/Dangerous_Debt"
+        ]
+    },
+    "Jayfon": {
+        "name": "Jayfon",
+        "character_url": "https://starwars.fandom.com/wiki/Jayfon",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Hostage_Crisis"
+        ]
+    },
+    "R5-S9": {
+        "name": "R5-S9",
+        "character_url": "https://starwars.fandom.com/wiki/R5-S9",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Hostage_Crisis",
+            "https://starwars.fandom.com/wiki/R2_Come_Home"
+        ]
+    },
+    "Todo 360": {
+        "name": "Todo 360",
+        "character_url": "https://starwars.fandom.com/wiki/Todo_360",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Holocron_Heist",
+            "https://starwars.fandom.com/wiki/Evil_Plans",
+            "https://starwars.fandom.com/wiki/Hunt_for_Ziro"
+        ]
+    },
+    "RO-Z67": {
+        "name": "RO-Z67",
+        "character_url": "https://starwars.fandom.com/wiki/RO-Z67",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Children_of_the_Force"
+        ]
+    },
+    "TX-21": {
+        "name": "TX-21",
+        "character_url": "https://starwars.fandom.com/wiki/TX-21",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Landing_at_Point_Rain",
+            "https://starwars.fandom.com/wiki/Weapons_Factory",
+            "https://starwars.fandom.com/wiki/Legacy_of_Terror"
+        ]
+    },
+    "O.M.5": {
+        "name": "O.M.5",
+        "character_url": "https://starwars.fandom.com/wiki/O.M.5",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Legacy_of_Terror"
+        ]
+    },
+    "TC-326": {
+        "name": "TC-326",
+        "character_url": "https://starwars.fandom.com/wiki/TC-326",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Brain_Invaders"
+        ]
+    },
+    "TV-94": {
+        "name": "TV-94",
+        "character_url": "https://starwars.fandom.com/wiki/TV-94",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Grievous_Intrigue"
+        ]
+    },
+    "Dasha Sigweed": {
+        "name": "Dasha Sigweed",
+        "character_url": "https://starwars.fandom.com/wiki/Dasha_Sigweed",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Lightsaber_Lost",
+            "https://starwars.fandom.com/wiki/Lethal_Trackdown",
+            "https://starwars.fandom.com/wiki/Pursuit_of_Peace",
+            "https://starwars.fandom.com/wiki/Orders"
+        ]
+    },
+    "LEP-171B": {
+        "name": "LEP-171B",
+        "character_url": "https://starwars.fandom.com/wiki/LEP-171B",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Senate_Murders"
+        ]
+    },
+    "V2A DAZ": {
+        "name": "V2A DAZ",
+        "character_url": "https://starwars.fandom.com/wiki/V2A_DAZ",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Senate_Murders"
+        ]
+    },
+    "datascreen": {
+        "name": "datascreen",
+        "character_url": "https://starwars.fandom.com/wiki/Datascreen",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Senate_Murders"
+        ]
+    },
+    "Kep-She": {
+        "name": "Kep-She",
+        "character_url": "https://starwars.fandom.com/wiki/Kep-She",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Cat_and_Mouse"
+        ]
+    },
+    "TI-99": {
+        "name": "TI-99",
+        "character_url": "https://starwars.fandom.com/wiki/TI-99",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Cat_and_Mouse"
+        ]
+    },
+    "TN-123": {
+        "name": "TN-123",
+        "character_url": "https://starwars.fandom.com/wiki/TN-123",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Zillo_Beast"
+        ]
+    },
+    "R8-B7": {
+        "name": "R8-B7",
+        "character_url": "https://starwars.fandom.com/wiki/R8-B7",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Death_Trap",
+            "https://starwars.fandom.com/wiki/R2_Come_Home"
+        ]
+    },
+    "R4-M1": {
+        "name": "R4-M1",
+        "character_url": "https://starwars.fandom.com/wiki/R4-M1",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/R2_Come_Home",
+            "https://starwars.fandom.com/wiki/Mercy_Mission_(episode)",
+            "https://starwars.fandom.com/wiki/Nomad_Droids",
+            "https://starwars.fandom.com/wiki/Bound_for_Rescue",
+            "https://starwars.fandom.com/wiki/Voices",
+            "https://starwars.fandom.com/wiki/A_Distant_Echo",
+            "https://starwars.fandom.com/wiki/Unfinished_Business_(episode)",
+            "https://starwars.fandom.com/wiki/Old_Friends_Not_Forgotten",
+            "https://starwars.fandom.com/wiki/The_Phantom_Apprentice"
+        ]
+    },
+    "Gary": {
+        "name": "Gary",
+        "character_url": "https://starwars.fandom.com/wiki/Gary",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Lethal_Trackdown"
+        ]
+    },
+    "Hutt pin-up": {
+        "name": "Hutt pin-up",
+        "character_url": "https://starwars.fandom.com/wiki/Hutt_pin-up",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Lethal_Trackdown"
+        ]
+    },
+    "Jason": {
+        "name": "Jason",
+        "character_url": "https://starwars.fandom.com/wiki/Jason_(Rodian_pin-up)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Lethal_Trackdown",
+            "https://starwars.fandom.com/wiki/Pursuit_of_Peace"
+        ]
+    },
+    "Rodian pin-up": {
+        "name": "Rodian pin-up",
+        "character_url": "https://starwars.fandom.com/wiki/Rodian_pin-up",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Lethal_Trackdown",
+            "https://starwars.fandom.com/wiki/Pursuit_of_Peace"
+        ]
+    },
+    "TV-94B": {
+        "name": "TV-94B",
+        "character_url": "https://starwars.fandom.com/wiki/TV-94B",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/ARC_Troopers"
+        ]
+    },
+    "OM-5": {
+        "name": "OM-5",
+        "character_url": "https://starwars.fandom.com/wiki/OM-5",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Supply_Lines"
+        ]
+    },
+    "OM-7": {
+        "name": "OM-7",
+        "character_url": "https://starwars.fandom.com/wiki/OM-7",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Supply_Lines"
+        ]
+    },
+    "TA1313": {
+        "name": "TA1313",
+        "character_url": "https://starwars.fandom.com/wiki/TA1313",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Supply_Lines"
         ]
     },
     "TC-70": {
@@ -92,15 +3073,510 @@
         "character_url": "https://starwars.fandom.com/wiki/TC-70",
         "species": "Unknown",
         "appearances": [
-            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+            "https://starwars.fandom.com/wiki/Sphere_of_Influence",
+            "https://starwars.fandom.com/wiki/Evil_Plans",
+            "https://starwars.fandom.com/wiki/Hunt_for_Ziro"
         ]
     },
-    "Wurtz": {
-        "name": "Wurtz",
-        "character_url": "https://starwars.fandom.com/wiki/Wurtz",
+    "BO-N1": {
+        "name": "BO-N1",
+        "character_url": "https://starwars.fandom.com/wiki/BO-N1",
         "species": "Unknown",
         "appearances": [
-            "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+            "https://starwars.fandom.com/wiki/Evil_Plans"
+        ]
+    },
+    "GL-916": {
+        "name": "GL-916",
+        "character_url": "https://starwars.fandom.com/wiki/GL-916",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Evil_Plans"
+        ]
+    },
+    "J0-N0": {
+        "name": "J0-N0",
+        "character_url": "https://starwars.fandom.com/wiki/J0-N0",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Evil_Plans"
+        ]
+    },
+    "K-8PO": {
+        "name": "K-8PO",
+        "character_url": "https://starwars.fandom.com/wiki/K-8PO",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Evil_Plans"
+        ]
+    },
+    "R4-C4": {
+        "name": "R4-C4",
+        "character_url": "https://starwars.fandom.com/wiki/R4-C4",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Evil_Plans"
+        ]
+    },
+    "SN-D1": {
+        "name": "SN-D1",
+        "character_url": "https://starwars.fandom.com/wiki/SN-D1",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Evil_Plans"
+        ]
+    },
+    "Ebor": {
+        "name": "Ebor",
+        "character_url": "https://starwars.fandom.com/wiki/Ebor",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Hunt_for_Ziro"
+        ]
+    },
+    "MF-80": {
+        "name": "MF-80",
+        "character_url": "https://starwars.fandom.com/wiki/MF-80",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Hunt_for_Ziro"
+        ]
+    },
+    "Mina Bonteri's husband": {
+        "name": "Mina Bonteri's husband",
+        "character_url": "https://starwars.fandom.com/wiki/Mina_Bonteri%27s_husband",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Heroes_on_Both_Sides"
+        ]
+    },
+    "TJ-912": {
+        "name": "TJ-912",
+        "character_url": "https://starwars.fandom.com/wiki/TJ-912",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Nightsisters_(episode)"
+        ]
+    },
+    "Revan": {
+        "name": "Revan",
+        "character_url": "https://starwars.fandom.com/wiki/Revan",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Ghosts_of_Mortis"
+        ]
+    },
+    "K2-B4": {
+        "name": "K2-B4",
+        "character_url": "https://starwars.fandom.com/wiki/K2-B4",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Citadel",
+            "https://starwars.fandom.com/wiki/Counterattack",
+            "https://starwars.fandom.com/wiki/Citadel_Rescue"
+        ]
+    },
+    "OOM-10": {
+        "name": "OOM-10",
+        "character_url": "https://starwars.fandom.com/wiki/OOM-10",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Citadel",
+            "https://starwars.fandom.com/wiki/Counterattack",
+            "https://starwars.fandom.com/wiki/Citadel_Rescue"
+        ]
+    },
+    "Simna": {
+        "name": "Simna",
+        "character_url": "https://starwars.fandom.com/wiki/Simna",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Padawan_Lost"
+        ]
+    },
+    "TZ-33": {
+        "name": "TZ-33",
+        "character_url": "https://starwars.fandom.com/wiki/TZ-33",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Padawan_Lost"
+        ]
+    },
+    "CS-321": {
+        "name": "CS-321",
+        "character_url": "https://starwars.fandom.com/wiki/CS-321",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Nomad_Droids"
+        ]
+    },
+    "K0-5D": {
+        "name": "K0-5D",
+        "character_url": "https://starwars.fandom.com/wiki/K0-5D",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Nomad_Droids"
+        ]
+    },
+    "R5-L26": {
+        "name": "R5-L26",
+        "character_url": "https://starwars.fandom.com/wiki/R5-L26",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Nomad_Droids"
+        ]
+    },
+    "TM-171": {
+        "name": "TM-171",
+        "character_url": "https://starwars.fandom.com/wiki/TM-171",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Plan_of_Dissent"
+        ]
+    },
+    "Bruno Denturri": {
+        "name": "Bruno Denturri",
+        "character_url": "https://starwars.fandom.com/wiki/Bruno_Denturri",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Slaves_of_the_Republic"
+        ]
+    },
+    "Battle droid 513": {
+        "name": "Battle droid 513",
+        "character_url": "https://starwars.fandom.com/wiki/Battle_droid_513",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/A_Friend_in_Need",
+            "https://starwars.fandom.com/wiki/Missing_in_Action"
+        ]
+    },
+    "holographic": {
+        "name": "holographic",
+        "character_url": "https://starwars.fandom.com/wiki/Hologram",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Crisis_on_Naboo"
+        ]
+    },
+    "C-21 Highsinger": {
+        "name": "C-21 Highsinger",
+        "character_url": "https://starwars.fandom.com/wiki/C-21_Highsinger",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Bounty_(episode)"
+        ]
+    },
+    "Marwigo": {
+        "name": "Marwigo",
+        "character_url": "https://starwars.fandom.com/wiki/Marwigo",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Brothers"
+        ]
+    },
+    "SD-357": {
+        "name": "SD-357",
+        "character_url": "https://starwars.fandom.com/wiki/SD-357",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Revival_(episode)"
+        ]
+    },
+    "Kalani": {
+        "name": "Kalani",
+        "character_url": "https://starwars.fandom.com/wiki/Kalani",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Front_Runners",
+            "https://starwars.fandom.com/wiki/The_Soft_War",
+            "https://starwars.fandom.com/wiki/Tipping_Points"
+        ]
+    },
+    "R9-D9": {
+        "name": "R9-D9",
+        "character_url": "https://starwars.fandom.com/wiki/R9-D9",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Soft_War"
+        ]
+    },
+    "Huyang": {
+        "name": "Huyang",
+        "character_url": "https://starwars.fandom.com/wiki/Huyang",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/A_Test_of_Strength",
+            "https://starwars.fandom.com/wiki/Bound_for_Rescue",
+            "https://starwars.fandom.com/wiki/A_Necessary_Bond"
+        ]
+    },
+    "OOM-87": {
+        "name": "OOM-87",
+        "character_url": "https://starwars.fandom.com/wiki/OOM-87",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/A_Necessary_Bond"
+        ]
+    },
+    "Aut-O": {
+        "name": "Aut-O",
+        "character_url": "https://starwars.fandom.com/wiki/Aut-O",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Secret_Weapons",
+            "https://starwars.fandom.com/wiki/Point_of_No_Return_(The_Clone_Wars)"
+        ]
+    },
+    "M5-BZ": {
+        "name": "M5-BZ",
+        "character_url": "https://starwars.fandom.com/wiki/M5-BZ",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Secret_Weapons",
+            "https://starwars.fandom.com/wiki/A_Sunny_Day_in_the_Void",
+            "https://starwars.fandom.com/wiki/Missing_in_Action",
+            "https://starwars.fandom.com/wiki/Point_of_No_Return_(The_Clone_Wars)"
+        ]
+    },
+    "QT-KT": {
+        "name": "QT-KT",
+        "character_url": "https://starwars.fandom.com/wiki/QT-KT",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Secret_Weapons",
+            "https://starwars.fandom.com/wiki/A_Sunny_Day_in_the_Void",
+            "https://starwars.fandom.com/wiki/Missing_in_Action",
+            "https://starwars.fandom.com/wiki/Point_of_No_Return_(The_Clone_Wars)"
+        ]
+    },
+    "U9-C4": {
+        "name": "U9-C4",
+        "character_url": "https://starwars.fandom.com/wiki/U9-C4",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Secret_Weapons",
+            "https://starwars.fandom.com/wiki/A_Sunny_Day_in_the_Void",
+            "https://starwars.fandom.com/wiki/Missing_in_Action",
+            "https://starwars.fandom.com/wiki/Point_of_No_Return_(The_Clone_Wars)"
+        ]
+    },
+    "WAC-47": {
+        "name": "WAC-47",
+        "character_url": "https://starwars.fandom.com/wiki/WAC-47",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Secret_Weapons",
+            "https://starwars.fandom.com/wiki/A_Sunny_Day_in_the_Void",
+            "https://starwars.fandom.com/wiki/Missing_in_Action",
+            "https://starwars.fandom.com/wiki/Point_of_No_Return_(The_Clone_Wars)"
+        ]
+    },
+    "BNI-393": {
+        "name": "BNI-393",
+        "character_url": "https://starwars.fandom.com/wiki/BNI-393",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Point_of_No_Return_(The_Clone_Wars)"
+        ]
+    },
+    "BNI-393's master": {
+        "name": "BNI-393's master",
+        "character_url": "https://starwars.fandom.com/wiki/BNI-393%27s_master",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Point_of_No_Return_(The_Clone_Wars)"
+        ]
+    },
+    "Z9": {
+        "name": "Z9",
+        "character_url": "https://starwars.fandom.com/wiki/Z9",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Point_of_No_Return_(The_Clone_Wars)"
+        ]
+    },
+    "Russo-ISC": {
+        "name": "Russo-ISC",
+        "character_url": "https://starwars.fandom.com/wiki/Russo-ISC",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Sabotage_(episode)"
+        ]
+    },
+    "Tutso Mara": {
+        "name": "Tutso Mara",
+        "character_url": "https://starwars.fandom.com/wiki/Tutso_Mara",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Jedi_Who_Knew_Too_Much"
+        ]
+    },
+    "MR-T3": {
+        "name": "MR-T3",
+        "character_url": "https://starwars.fandom.com/wiki/MR-T3",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Jedi_Who_Knew_Too_Much"
+        ]
+    },
+    "R-A7": {
+        "name": "R-A7",
+        "character_url": "https://starwars.fandom.com/wiki/R-A7",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Jedi_Who_Knew_Too_Much"
+        ]
+    },
+    "Kraken": {
+        "name": "Kraken",
+        "character_url": "https://starwars.fandom.com/wiki/Kraken",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/The_Unknown",
+            "https://starwars.fandom.com/wiki/Crisis_at_the_Heart",
+            "https://starwars.fandom.com/wiki/Sacrifice"
+        ]
+    },
+    "AZI-345211896246498721347": {
+        "name": "AZI-345211896246498721347",
+        "character_url": "https://starwars.fandom.com/wiki/AZI-345211896246498721347",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Conspiracy",
+            "https://starwars.fandom.com/wiki/Fugitive",
+            "https://starwars.fandom.com/wiki/Orders"
+        ]
+    },
+    "graffiti": {
+        "name": "graffiti",
+        "character_url": "https://starwars.fandom.com/wiki/Graffiti",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Orders"
+        ]
+    },
+    "[1]": {
+        "name": "[1]",
+        "character_url": "https://starwars.fandom.com#cite_note-Explore:_An_Old_Friend-1",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/An_Old_Friend"
+        ]
+    },
+    "Anger": {
+        "name": "Anger",
+        "character_url": "https://starwars.fandom.com/wiki/Anger",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Destiny_(The_Clone_Wars)",
+            "https://starwars.fandom.com/wiki/Sacrifice"
+        ]
+    },
+    "Confusion": {
+        "name": "Confusion",
+        "character_url": "https://starwars.fandom.com/wiki/Confusion",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Destiny_(The_Clone_Wars)",
+            "https://starwars.fandom.com/wiki/Sacrifice"
+        ]
+    },
+    "Joy": {
+        "name": "Joy",
+        "character_url": "https://starwars.fandom.com/wiki/Joy",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Destiny_(The_Clone_Wars)",
+            "https://starwars.fandom.com/wiki/Sacrifice"
+        ]
+    },
+    "Sadness": {
+        "name": "Sadness",
+        "character_url": "https://starwars.fandom.com/wiki/Sadness",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Destiny_(The_Clone_Wars)",
+            "https://starwars.fandom.com/wiki/Sacrifice"
+        ]
+    },
+    "Serenity": {
+        "name": "Serenity",
+        "character_url": "https://starwars.fandom.com/wiki/Serenity",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Destiny_(The_Clone_Wars)",
+            "https://starwars.fandom.com/wiki/Sacrifice"
+        ]
+    },
+    "Darth Zannah": {
+        "name": "Darth Zannah",
+        "character_url": "https://starwars.fandom.com/wiki/Darth_Zannah",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Sacrifice"
+        ]
+    },
+    "Gonky": {
+        "name": "Gonky",
+        "character_url": "https://starwars.fandom.com/wiki/Gonky_(Clone_Force_99)",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/A_Distant_Echo"
+        ]
+    },
+    "Lokann's business partner": {
+        "name": "Lokann's business partner",
+        "character_url": "https://starwars.fandom.com/wiki/Lokann%27s_business_partner",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Gone_with_a_Trace"
+        ]
+    },
+    "Trace and Rafa Martez's father": {
+        "name": "Trace and Rafa Martez's father",
+        "character_url": "https://starwars.fandom.com/wiki/Trace_and_Rafa_Martez%27s_father",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Deal_No_Deal",
+            "https://starwars.fandom.com/wiki/Dangerous_Debt",
+            "https://starwars.fandom.com/wiki/Together_Again"
+        ]
+    },
+    "Trace and Rafa Martez's mother": {
+        "name": "Trace and Rafa Martez's mother",
+        "character_url": "https://starwars.fandom.com/wiki/Trace_and_Rafa_Martez%27s_mother",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Deal_No_Deal",
+            "https://starwars.fandom.com/wiki/Dangerous_Debt",
+            "https://starwars.fandom.com/wiki/Together_Again"
+        ]
+    },
+    "Yaruba": {
+        "name": "Yaruba",
+        "character_url": "https://starwars.fandom.com/wiki/Yaruba",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Deal_No_Deal"
+        ]
+    },
+    "CH-33P": {
+        "name": "CH-33P",
+        "character_url": "https://starwars.fandom.com/wiki/CH-33P",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Shattered",
+            "https://starwars.fandom.com/wiki/Victory_and_Death"
+        ]
+    },
+    "RG-G1": {
+        "name": "RG-G1",
+        "character_url": "https://starwars.fandom.com/wiki/RG-G1",
+        "species": "Unknown",
+        "appearances": [
+            "https://starwars.fandom.com/wiki/Shattered",
+            "https://starwars.fandom.com/wiki/Victory_and_Death"
         ]
     }
 }
