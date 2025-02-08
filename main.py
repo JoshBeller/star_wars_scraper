@@ -1,37 +1,36 @@
-from star_wars_scraper import StarWarsCharacterScraper
 import os
+import json
+from star_wars_scraper import StarWarsCharacterScraper
 
-# Directory for storing files
-DATA_DIR = os.path.join("data", "Movies")
-os.makedirs(DATA_DIR, exist_ok=True)
+# Define data paths
+DATA_DIR = "data"
+MOVIES_FILE = os.path.join(DATA_DIR, "Movies.txt")
+CLONE_WARS_FILE = os.path.join(DATA_DIR, "CloneWarsEpisodes.txt")
+CHARACTERS_JSON = os.path.join(DATA_DIR, "characters.json")
 
-def read_episode_file(filename):
-    """Reads movie URLs from a file where each line is a URL."""
-    episode_urls = []
-    try:
-        with open(filename, 'r') as file:
-            episode_urls = [line.strip() for line in file if line.strip()]
-    except FileNotFoundError:
+def read_urls(filename):
+    """Reads URLs from a text file."""
+    if not os.path.exists(filename):
         print(f"File {filename} not found.")
-    return episode_urls
-
+        return []
+    
+    with open(filename, 'r') as file:
+        return [line.strip() for line in file if line.strip()]
 
 if __name__ == "__main__":
     base_url = "https://starwars.fandom.com"
-
-    # Step 1: Read movie URLs from the existing file
-    episodes_file = os.path.join(DATA_DIR, "episodes.txt")
-    movie_urls = read_episode_file(episodes_file)
-
-    # Step 2: Scrape characters for each movie
     scraper = StarWarsCharacterScraper(base_url)
-    for movie_url in movie_urls:
-        print(f"Scraping characters from {movie_url}...")
-        scraper.parse_characters(movie_url)
 
-    # Step 3: Save character data into the Movies directory
-    scraper.save_to_files(
-        os.path.join(DATA_DIR, "known_characters.txt"),
-        os.path.join(DATA_DIR, "unknown_characters.txt"),
-        os.path.join(DATA_DIR, "unidentified_characters.txt"),
-    )
+    # Scrape Movies
+    for movie_url in read_urls(MOVIES_FILE):
+        print(f"Scraping characters from movie: {movie_url}")
+        scraper.parse_characters(movie_url, "Movies")
+
+    # Scrape Clone Wars Episodes
+    for episode_url in read_urls(CLONE_WARS_FILE):
+        print(f"Scraping characters from Clone Wars episode: {episode_url}")
+        scraper.parse_characters(episode_url, "Clone Wars")
+
+    # Save all character data
+    scraper.save_characters(CHARACTERS_JSON)
+    print(f"Scraping complete. Character data saved to '{CHARACTERS_JSON}'.")
