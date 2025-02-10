@@ -7,15 +7,6 @@ DATA_DIR = "data"
 EPISODES_DIR = os.path.join(DATA_DIR, "episodes")
 CHARACTERS_DIR = os.path.join(DATA_DIR, "characters")
 
-# Define episode text file paths
-MOVIES_FILE = os.path.join(EPISODES_DIR, "Movies.txt")
-CLONE_WARS_FILE = os.path.join(EPISODES_DIR, "CloneWarsEpisodes.txt")
-
-# Define character JSON file paths
-KNOWN_FILE = os.path.join(CHARACTERS_DIR, "known_characters.json")
-UNKNOWN_FILE = os.path.join(CHARACTERS_DIR, "unknown_characters.json")
-UNIDENTIFIED_FILE = os.path.join(CHARACTERS_DIR, "unidentified_characters.json")
-
 # Ensure directories exist
 os.makedirs(CHARACTERS_DIR, exist_ok=True)
 
@@ -25,23 +16,34 @@ def read_urls(filename):
         print(f"File {filename} not found.")
         return []
     
-    with open(filename, 'r') as file:
-        return [line.strip() for line in file if line.strip()]
+    with open(filename, 'r', encoding="utf-8") as file:
+        return [line.strip().split(", ")[-1] for line in file if line.strip()]
 
 if __name__ == "__main__":
     base_url = "https://starwars.fandom.com"
     scraper = StarWarsCharacterScraper(base_url)
 
-    # Scrape Movies
-    for movie_url in read_urls(MOVIES_FILE):
-        print(f"Scraping characters from movie: {movie_url}")
-        scraper.parse_characters(movie_url)
+    # Loop through all episode text files in the directory
+    for episode_file in os.listdir(EPISODES_DIR):
+        if episode_file.endswith(".txt"):
+            series_name = episode_file.replace("Episodes.txt", "")  # Extract series name
+            episode_path = os.path.join(EPISODES_DIR, episode_file)
+            episode_urls = read_urls(episode_path)
 
-    # Scrape Clone Wars Episodes
-    for episode_url in read_urls(CLONE_WARS_FILE):
-        print(f"Scraping characters from Clone Wars episode: {episode_url}")
-        scraper.parse_characters(episode_url)
+            if not episode_urls:
+                print(f"No episodes found in {episode_file}, skipping...")
+                continue
 
-    # Save all character data in the correct directory
+            print(f"Scraping characters for {series_name} ({len(episode_urls)} episodes)...")
+
+            for episode_url in episode_urls:
+                try:
+                    print(f"Scraping: {episode_url}")
+                    scraper.parse_characters(episode_url)
+                except Exception as e:
+                    print(f"Error scraping {episode_url}: {e}")
+
+    # Save all character data by passing only the directory
     scraper.save_to_files(CHARACTERS_DIR)
-    print(f"Scraping complete. Character data saved in '{CHARACTERS_DIR}'.")
+
+    print("All character data saved.")
