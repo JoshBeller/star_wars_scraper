@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Star Wars Data Analysis</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #111;
+            color: white;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 28px;
+            margin-top: 20px;
+        }
+
+        .graph-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 30px 0;
+        }
+
+        img {
+            max-width: 90%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.2);
+        }
+
+        .footer {
+            margin-top: 40px;
+            font-size: 14px;
+            opacity: 0.7;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>📊 Star Wars Character Data Analysis</h1>
+
+    <div class="graph-container">
+        <h2>Species Distribution</h2>
+        <img src="{{ url_for('static', filename='species_distribution.png') }}" alt="Species Distribution">
+    </div>
+
+    <div class="graph-container">
+        <h2>Top 20 Most Appearing Characters</h2>
+        <img src="{{ url_for('static', filename='top_characters.png') }}" alt="Top Characters">
+    </div>
+
+    <div class="footer">
+        <p>Data scraped from <a href="https://www.starwars.com/databank" target="_blank" style="color: lightblue;">Star Wars Databank</a></p>
+    </div>
+
+</body>
+</html>
